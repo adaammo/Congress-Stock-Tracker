@@ -1,0 +1,131 @@
+@import "tailwindcss";
+div {
+    position: relative;
+}
+.load-up{
+    margin-bottom: 65px;
+}
+.logo{
+    height: 670px;
+    --fade-out: 40%;
+    mask-image: linear-gradient(to bottom, transparent, black, black, black var(--fade-out));
+    transform: translate(850px);
+}
+.title-text{
+    position: absolute;
+    color: white;
+    transform: translate(37.5px, -510px);
+    font-size: 50px;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.title-text-2{
+    position: absolute;
+    color: white;
+    transform: translate(37.5px, -360px);
+    font-size: 25px;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.linked{
+    cursor: pointer;
+}
+.linked:hover{
+    opacity: 50%;
+}
+.git{
+    height: 75px;
+    cursor:pointer;
+}
+.git:hover{
+    opacity: 50%;
+}
+.ref{
+    display: flex;
+    left: 15px;
+}
+
+.icon{
+    left: 15px;
+    margin-top: 10px;
+    padding-top: 6px;
+    border-radius: 35px;
+    width: 90px;
+    height: 90px;
+    align-items: center;
+    justify-items: center;
+    margin-right: 6px;
+}
+
+.arrow{
+    color:rgb(79, 79, 79);
+    font-weight: bolder;
+    font-size: 65px;
+    position: absolute;
+    transform: translate(685px, -35px);
+}
+.fade-in{
+    opacity: 100%;
+transition: 3s all ease-in;
+}
+.fade-out{
+opacity: 0%;
+transition: 3s all ease-out
+}
+.cards{
+    display: flex;
+    margin-top: 30px;
+    height: 250px;
+    width: 685px;
+    border-width: 1px;
+    border-radius:20px;
+    margin-left: 30px;
+    border-color: white;
+    background-color: rgb(30, 30, 30);
+    cursor: pointer;
+    text-align-last: center;
+}
+.pfp{
+    position: relative;
+    height:200px;
+    border-radius: 110px;
+    left: 25px;
+    top: 25px;
+}
+.members{
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(2, 300px);
+    column-gap: 450px;
+    align-self: center;
+}
+
+.info{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+
+left: 50px;
+}
+.pos{
+    font-weight: bolder;
+    text-wrap: nowrap;
+    font-size: 28px;
+}
+.name{
+    font-weight: bolder;
+    
+    text-wrap: nowrap;
+    font-size: 30px;
+}
+.Sub-info{
+    font-weight: bolder;
+    font-size:20px;
+}
+.cards:hover{
+    opacity: 75%;
+}
+.cards:active{
+    opacity: 50%;
+}
+
+
