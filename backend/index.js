@@ -22,19 +22,6 @@ const db = new pg.Client({
 app.use(cors());
 db.connect();
 const server = 3000;
-async function StockExistence(s){
-    var result;
-    try{
-    result = await db.query("SELECT* FROM STOCKS WHERE stock_ticker = $1", [s]);
-    }
-    catch(err){
-        return "Error, that stock is not in the database";
-    }
-    if(result.rowCount >= 1){
-        return true;
-    }
-    return false;
-}
 
 app.use((req, res, next) => {
     const timestamp = new Date().toISOString();
