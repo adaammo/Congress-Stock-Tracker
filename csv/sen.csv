@@ -1,0 +1,906 @@
+first_name,last_name,stock_id,trade_type,trader,trade_value,notes,notified_date,transaction_date
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $15.00  Expires: 01/19/2024,05-11-2023,04-28-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $17.00  Expires: 06/21/2024,05-11-2023,04-28-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $17.00  Expires: 01/19/2024,05-11-2023,04-28-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $17.00  Expires: 06/21/2024,05-11-2023,04-28-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $17.00  Expires: 06/21/2024,05-11-2023,04-28-2023
+Tommy,Tuberville,F,Purchase,Joint,"$15,001 - $50,000",Ford Motor Company Common Stock,05-11-2023,04-28-2023
+Tommy,Tuberville,F,Purchase,Joint,"$100,001 - $250,000",Ford Motor Company Common Stock,05-11-2023,04-27-2023
+Tommy,Tuberville,F,Purchase,Joint,"$15,001 - $50,000",Ford Motor Company Common Stock,05-11-2023,04-26-2023
+Tommy,Tuberville,ATVI,Sale (Full),Joint,"$100,001 - $250,000","Activision Blizzard, Inc - Common Stock",05-11-2023,04-26-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $18.00  Expires: 01/19/2024,05-11-2023,04-24-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $16.00  Expires: 01/19/2024,05-11-2023,04-24-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $16.00  Expires: 01/19/2024,05-11-2023,04-24-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$50,001 - $100,000",United States Steel Corporation Common Stock,05-11-2023,04-24-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$100,001 - $250,000",United States Steel Corporation Common Stock,05-11-2023,04-24-2023
+Tommy,Tuberville,CLF,Purchase,Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc. Common Stock,05-11-2023,04-24-2023
+Tommy,Tuberville,OXY,Sale (Partial),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Common Stock Option Type: Put Strike price: $60.00  Expires: 06/21/2024,05-11-2023,04-18-2023
+Tommy,Tuberville,KMB,Sale (Partial),Joint,"$1,001 - $15,000",Kimberly-Clark Corporation Common Stock Option Type: Put Strike price: $135.00  Expires: 10/20/2023,05-11-2023,04-14-2023
+Tommy,Tuberville,MMM,Purchase,Joint,"$1,001 - $15,000",3M Company Common Stock,05-11-2023,04-14-2023
+Tommy,Tuberville,MRO,Sale (Partial),Joint,"$1,001 - $15,000",Marathon Oil Corporation Common Stock Option Type: Put Strike price: $25.00  Expires: 09/15/2023,05-11-2023,04-14-2023
+Tommy,Tuberville,KR,Sale (Partial),Joint,"$1,001 - $15,000",Kroger Company (The) Common Stock Option Type: Put Strike price: $48.00  Expires: 10/20/2023,05-11-2023,04-10-2023
+Tommy,Tuberville,MDLZ,Sale (Partial),Joint,"$1,001 - $15,000","Mondelez International, Inc. - Class A Common Stoc Option Type: Put Strike price: $70.00  Expires: 01/19/2024",05-11-2023,04-10-2023
+Tommy,Tuberville,PARA,Sale (Partial),Joint,"$1,001 - $15,000",Paramount Global - Class B Common Stock Option Type: Put Strike price: $20.00  Expires: 09/15/2023,05-11-2023,04-10-2023
+Tommy,Tuberville,HPQ,Sale (Partial),Joint,"$1,001 - $15,000",HP Inc. Common Stock Option Type: Put Strike price: $29.00  Expires: 11/17/2023,05-11-2023,04-10-2023
+Tommy,Tuberville,TSLA,Sale (Partial),Joint,"$15,001 - $50,000","Tesla, Inc. - Common Stock Option Type: Put Strike price: $190.00  Expires: 12/15/2023",05-11-2023,04-04-2023
+Tommy,Tuberville,TXN,Sale (Partial),Joint,"$15,001 - $50,000",Texas Instruments Incorporated - Common Stock Option Type: Put Strike price: $180.00  Expires: 10/20/2023,05-11-2023,04-03-2023
+Tommy,Tuberville,XP,Purchase,Joint,"$1,001 - $15,000",XP Inc. - Class A Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,VCTR,Sale (Full),Joint,"$1,001 - $15,000","Victory Capital Holdings, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,VZ,Purchase,Joint,"$1,001 - $15,000",Verizon Communications Inc. Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,TREX,Sale (Full),Joint,"$1,001 - $15,000","Trex Company, Inc. Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,MMM,Purchase,Joint,"$1,001 - $15,000",3M Company Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,TMO,Sale (Full),Joint,"$1,001 - $15,000",Thermo Fisher Scientific Inc Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,MSFT,Sale (Partial),Joint,"$15,001 - $50,000",Microsoft Corporation - Common Stock Option Type: Put Strike price: $250.00  Expires: 11/17/2023,05-11-2023,04-03-2023
+Tommy,Tuberville,TSLA,Purchase,Joint,"$1,001 - $15,000","Tesla, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,SKY,Purchase,Joint,"$1,001 - $15,000",Skyline Champion Corporation Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,SSD,Purchase,Joint,"$1,001 - $15,000","Simpson Manufacturing Company, Inc. Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,SCI,Sale (Full),Joint,"$1,001 - $15,000",Service Corporation International Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,QSR,Purchase,Joint,"$1,001 - $15,000",Restaurant Brands International Inc,05-11-2023,04-03-2023
+Tommy,Tuberville,REGN,Purchase,Joint,"$1,001 - $15,000","Regeneron Pharmaceuticals, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,RRC,Purchase,Joint,"$1,001 - $15,000",Range Resources Corporation Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,RH,Sale (Full),Joint,"$1,001 - $15,000",RH Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,PHM,Sale (Full),Joint,"$1,001 - $15,000","PulteGroup, Inc. Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,PAM,Purchase,Joint,"$1,001 - $15,000",Pampa Energia S.A. Pampa Energia S.A.,05-11-2023,04-03-2023
+Tommy,Tuberville,NSC,Purchase,Joint,"$1,001 - $15,000",Norfolk Southern Corporation Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,NDSN,Purchase,Joint,"$1,001 - $15,000",Nordson Corporation - Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,NVDA,Purchase,Joint,"$1,001 - $15,000",NVIDIA Corporation - Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,MCO,Sale (Full),Joint,"$1,001 - $15,000",Moody's Corporation Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,MPWR,Sale (Partial),Joint,"$1,001 - $15,000","Monolithic Power Systems, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,MPWR,Sale (Partial),Joint,"$1,001 - $15,000","Monolithic Power Systems, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,MTD,Sale (Full),Joint,"$1,001 - $15,000","Mettler-Toledo International, Inc. Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,MMC,Sale (Full),Joint,"$1,001 - $15,000","Marsh &amp; McLennan Companies, Inc. Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,MKSI,Sale (Full),Joint,"$1,001 - $15,000","MKS Instruments, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,LMST,Sale (Full),Joint,"$1,001 - $15,000","Limestone Bancorp, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,ITW,Sale (Full),Joint,"$1,001 - $15,000",Illinois Tool Works Inc. Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,IDXX,Purchase,Joint,"$1,001 - $15,000","IDEXX Laboratories, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,GFI,Sale (Full),Joint,"$1,001 - $15,000",Gold Fields Limited American Depositary Shares,05-11-2023,04-03-2023
+Tommy,Tuberville,FLT,Sale (Full),Joint,"$1,001 - $15,000","FleetCor Technologies, Inc. Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,META,Sale (Full),Joint,"$1,001 - $15,000","Meta Platforms, Inc. - Class A Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,ETSY,Sale (Full),Joint,"$1,001 - $15,000","Etsy, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,EW,Sale (Full),Joint,"$1,001 - $15,000",Edwards Lifesciences Corporation Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,DQ,Sale (Full),Joint,"$1,001 - $15,000","DAQO New Energy Corp. American Depositary Shares,",05-11-2023,04-03-2023
+Tommy,Tuberville,CROX,Sale (Full),Joint,"$1,001 - $15,000","Crocs, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,CSCO,Sale (Full),Joint,"$15,001 - $50,000","Cisco Systems, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,ANET,Sale (Full),Joint,"$15,001 - $50,000","Arista Networks, Inc. Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,AMT,Sale (Full),Joint,"$1,001 - $15,000",American Tower Corporation (REIT) Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,ALLE,Sale (Full),Joint,"$1,001 - $15,000",Allegion plc Ordinary Shares,05-11-2023,04-03-2023
+Tommy,Tuberville,ABBV,Sale (Partial),Joint,"$1,001 - $15,000",AbbVie Inc. Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,GSK,Purchase,Joint,"$1,001 - $15,000",GSK plc American Depositary Shares (Each represent,05-11-2023,04-03-2023
+Tommy,Tuberville,GNTX,Purchase,Joint,"$1,001 - $15,000",Gentex Corporation - Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,GRMN,Purchase,Joint,"$1,001 - $15,000",Garmin Ltd. - Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,DIOD,Purchase,Joint,"$1,001 - $15,000",Diodes Incorporated - Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,CBSH,Purchase,Joint,"$1,001 - $15,000","Commerce Bancshares, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,CRUS,Purchase,Joint,"$1,001 - $15,000","Cirrus Logic, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,AVGO,Purchase,Joint,"$1,001 - $15,000",Broadcom Inc. - Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,ADSK,Purchase,Joint,"$1,001 - $15,000","Autodesk, Inc. - Common Stock",05-11-2023,04-03-2023
+Tommy,Tuberville,APH,Purchase,Joint,"$1,001 - $15,000",Amphenol Corporation Common Stock,05-11-2023,04-03-2023
+Tommy,Tuberville,A,Purchase,Joint,"$1,001 - $15,000","Agilent Technologies, Inc. Common Stock",05-11-2023,04-03-2022
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $21.00  Expires: 10/20/2023,04-12-2023,03-21-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $18.00  Expires: 10/20/2023,04-12-2023,03-21-2023
+Tommy,Tuberville,TSM,Purchase,Joint,"$1,001 - $15,000",Taiwan Semiconductor Manufacturing Company Ltd. Option Type: Put Strike price: $75.00  Expires: 09/15/2023,04-12-2023,03-21-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock,04-12-2023,03-21-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock,04-12-2023,03-21-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$15,001 - $50,000",United States Steel Corporation Common Stock,04-12-2023,03-21-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$15,001 - $50,000",United States Steel Corporation Common Stock,04-12-2023,03-21-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$50,001 - $100,000",United States Steel Corporation Common Stock,04-12-2023,03-21-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$50,001 - $100,000",United States Steel Corporation Common Stock,04-12-2023,03-21-2023
+Tommy,Tuberville,CLF,Purchase,Joint,"$50,001 - $100,000",Cleveland-Cliffs Inc. Common Stock,04-12-2023,03-21-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$50,001 - $100,000",United States Steel Corporation Common Stock,04-12-2023,03-20-2023
+Tommy,Tuberville,KMB,Purchase,Joint,"$15,001 - $50,000",Kimberly-Clark Corporation Common Stock,04-12-2023,03-10-2023
+Tommy,Tuberville,BMO,Sale (Full),Joint,"$1,001 - $15,000",Bank of Montreal,04-12-2023,03-06-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $20.00  Expires: 10/20/2023,04-12-2023,03-03-2023
+Tommy,Tuberville,N/A,N/A,N/A,Unknown,This filing was disclosed via scanned PDF. Use link in ptr_link column to view the PDF.,03-14-2023,03-14-2023
+Tommy,Tuberville,GOLD,Purchase,Joint,"$1,001 - $15,000",Barrick Gold Corporation Common Stock (BC),02-14-2023,01-23-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $19.00  Expires: 07/21/2023,02-14-2023,01-18-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $23.00  Expires: 07/21/2023,02-14-2023,01-18-2023
+Tommy,Tuberville,CLF,Purchase,Joint,"$100,001 - $250,000",Cleveland-Cliffs Inc. Common Stock,02-14-2023,01-18-2023
+Tommy,Tuberville,UAA,Purchase,Joint,"$15,001 - $50,000","Under Armour, Inc. Class A Common Stock",02-14-2023,01-13-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $20.00  Expires: 06/16/2023,02-14-2023,01-12-2023
+Tommy,Tuberville,V,Sale (Partial),Joint,"$1,001 - $15,000",Visa Inc. Option Type: Put Strike price: $210.00  Expires: 09/15/2023,02-14-2023,01-11-2023
+Tommy,Tuberville,KO,Sale (Partial),Joint,"$1,001 - $15,000",Coca-Cola Company (The) Common Stock Option Type: Put Strike price: $60.00  Expires: 12/15/2023,02-14-2023,01-11-2023
+Tommy,Tuberville,AAPL,Sale (Partial),Joint,"$1,001 - $15,000",Apple Inc. - Common Stock Option Type: Put Strike price: $125.00  Expires: 09/15/2023,02-14-2023,01-11-2023
+Tommy,Tuberville,TXN,Sale (Partial),Joint,"$1,001 - $15,000",Texas Instruments Incorporated - Common Stock Option Type: Put Strike price: $170.00  Expires: 07/21/2023,02-14-2023,01-11-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $18.00  Expires: 04/21/2023,02-14-2023,01-05-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $20.00  Expires: 07/21/2023,02-14-2023,01-05-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $20.00  Expires: 07/21/2023,02-14-2023,01-05-2023
+Tommy,Tuberville,X,Purchase,Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Put Strike price: $23.00  Expires: 01/20/2023,02-14-2023,01-05-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock,02-14-2023,01-05-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock,02-14-2023,01-05-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock,02-14-2023,01-05-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$15,001 - $50,000",United States Steel Corporation Common Stock,02-14-2023,01-05-2023
+Tommy,Tuberville,X,Sale (Partial),Joint,"$50,001 - $100,000",United States Steel Corporation Common Stock,02-14-2023,01-05-2023
+Tommy,Tuberville,CLF,Sale (Partial),Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $20.00  Expires: 06/16/2023,02-14-2023,01-05-2023
+Tommy,Tuberville,GOLD,Purchase,Joint,"$15,001 - $50,000",Barrick Gold Corporation Common Stock (BC),01-13-2023,12-23-2022
+Tommy,Tuberville,NU,Purchase,Joint,"$1,001 - $15,000",Nu Holdings Ltd. Class A Ordinary Shares,01-13-2023,12-19-2022
+Tommy,Tuberville,DIS,Sale (Partial),Joint,"$15,001 - $50,000",Walt Disney Company (The) Common Stock,01-13-2023,12-15-2022
+Tommy,Tuberville,PG,Sale (Full),Joint,"$1,001 - $15,000",Procter &amp; Gamble Company (The) Common Stock Option Type: Put Strike price: $150.00  Expires: 07/21/2023,01-13-2023,12-09-2022
+Tommy,Tuberville,KMB,Sale (Full),Joint,"$1,001 - $15,000",Kimberly-Clark Corporation Common Stock Option Type: Put Strike price: $135.00  Expires: 04/21/2023,01-13-2023,12-09-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$100,001 - $250,000","PayPal Holdings, Inc. - Common Stock Option Type: Put Strike price: $100.00  Expires: 01/19/2024",01-13-2023,12-09-2022
+Tommy,Tuberville,PG,Sale (Full),Joint,"$1,001 - $15,000",Procter &amp; Gamble Company (The) Common Stock Option Type: Put Strike price: $145.00  Expires: 06/16/2023,01-13-2023,12-09-2022
+Tommy,Tuberville,CLX,Sale (Full),Joint,"$1,001 - $15,000",Clorox Company (The) Common Stock Option Type: Put Strike price: $140.00  Expires: 05/19/2023,01-13-2023,12-09-2022
+Tommy,Tuberville,PYPL,Sale (Partial),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock",01-13-2023,12-09-2022
+Tommy,Tuberville,PYPL,Sale (Partial),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock",01-13-2023,12-09-2022
+Tommy,Tuberville,PYPL,Sale (Partial),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock",01-13-2023,12-09-2022
+Tommy,Tuberville,PYPL,Sale (Partial),Joint,"$15,001 - $50,000","PayPal Holdings, Inc. - Common Stock",01-13-2023,12-09-2022
+Tommy,Tuberville,PYPL,Sale (Partial),Joint,"$50,001 - $100,000","PayPal Holdings, Inc. - Common Stock",01-13-2023,12-09-2022
+Tommy,Tuberville,PYPL,Sale (Partial),Joint,"$100,001 - $250,000","PayPal Holdings, Inc. - Common Stock",01-13-2023,12-09-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$15,001 - $50,000","PayPal Holdings, Inc. - Common Stock",01-13-2023,12-08-2022
+Tommy,Tuberville,GOLD,Purchase,Joint,"$50,001 - $100,000",Barrick Gold Corporation Common Stock (BC),01-13-2023,12-06-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$250,001 - $500,000","PayPal Holdings, Inc. - Common Stock",01-13-2023,12-05-2022
+Tommy,Tuberville,QCOM,Sale (Full),Joint,"$15,001 - $50,000",QUALCOMM Incorporated - Common Stock Option Type: Put Strike price: $140.00  Expires: 09/15/23,01-13-2023,12-02-2022
+Tommy,Tuberville,QCOM,Sale (Partial),Joint,"$50,001 - $100,000",QUALCOMM Incorporated - Common Stock,01-13-2023,12-02-2022
+Tommy,Tuberville,QCOM,Purchase,Joint,"$100,001 - $250,000",QUALCOMM Incorporated - Common Stock,01-13-2023,12-01-2022
+Tommy,Tuberville,GOLD,Purchase,Joint,"$1,001 - $15,000",Barrick Gold Corporation Common Stock (BC),01-13-2023,12-01-2022
+Tommy,Tuberville,TSM,Sale (Full),Joint,"$1,001 - $15,000",Taiwan Semiconductor Manufacturing Company Ltd. Option Type: Put Strike price: $75.00  Expires: 09/15/2023,12-14-2022,11-23-2022
+Tommy,Tuberville,TSM,Sale (Full),Joint,"$1,001 - $15,000",Taiwan Semiconductor Manufacturing Company Ltd. Option Type: Put Strike price: $75.00  Expires: 09/15/2023,12-14-2022,11-23-2022
+Tommy,Tuberville,MSFT,Sale (Full),Joint,"$15,001 - $50,000",Microsoft Corporation - Common Stock Option Type: Put Strike price: $225.00  Expires: 09/15/2023,12-14-2022,11-23-2022
+Tommy,Tuberville,MSFT,Purchase,Joint,"$1,001 - $15,000",Microsoft Corporation - Common Stock Option Type: Call Strike price: $265.00  Expires: 04/21/2023,12-14-2022,11-23-2022
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$15,001 - $50,000",Intel Corporation - Common Stock Option Type: Put Strike price: $30.00  Expires: 09/15/2023,12-14-2022,11-22-2022
+Tommy,Tuberville,MSFT,Sale (Partial),Joint,"$100,001 - $250,000",Microsoft Corporation - Common Stock,12-14-2022,11-22-2022
+Tommy,Tuberville,F,Sale (Full),Joint,"$100,001 - $250,000",Ford Motor Company Common Stock,12-14-2022,11-22-2022
+Tommy,Tuberville,F,Purchase,Joint,"$100,001 - $250,000",Ford Motor Company Common Stock,12-14-2022,11-17-2022
+Tommy,Tuberville,INTC,Purchase,Joint,"$100,001 - $250,000",Intel Corporation - Common Stock,12-14-2022,11-09-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock Option Type: Put Strike price: $100.00  Expires: 01/19/2024",12-14-2022,11-08-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock Option Type: Put Strike price: $100.00  Expires: 01/19/2024",12-14-2022,11-08-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$50,001 - $100,000","PayPal Holdings, Inc. - Common Stock Option Type: Put Strike price: $100.00  Expires: 01/19/2024",12-14-2022,11-08-2022
+Tommy,Tuberville,PYPL,Sale (Partial),Joint,"$100,001 - $250,000","PayPal Holdings, Inc. - Common Stock",12-14-2022,11-08-2022
+Tommy,Tuberville,ATVI,Purchase,Joint,"$100,001 - $250,000","Activision Blizzard, Inc - Common Stock",12-14-2022,11-08-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$100,001 - $250,000","PayPal Holdings, Inc. - Common Stock",12-14-2022,11-07-2022
+Tommy,Tuberville,CLF,Purchase,Joint,"$50,001 - $100,000",Cleveland-Cliffs Inc. Common Stock,12-14-2022,11-03-2022
+Tommy,Tuberville,NU,Purchase,Joint,"$1,001 - $15,000",Nu Holdings Ltd. Class A Ordinary Shares,12-14-2022,11-01-2022
+Tommy,Tuberville,CLF,Purchase,Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock,12-14-2022,11-01-2022
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Call Strike price: $25.00  Expires: 04/21/2023,12-14-2022,11-08-2022
+Tommy,Tuberville,MSFT,Sale (Full),Joint,"$1,001 - $15,000",Microsoft Corporation - Common Stock Option Type: Short Sale Strike price: $245.00  Expires: 06/16/2023,11-10-2022,10-28-2022
+Tommy,Tuberville,CLF,Purchase,Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc. Common Stock,11-10-2022,10-31-2022
+Tommy,Tuberville,MSFT,Sale (Full),Joint,"$1,001 - $15,000",Microsoft Corporation - Common Stock Option Type: Short Sale Strike price: $245.00  Expires: 06/16/2023,11-10-2022,10-28-2022
+Tommy,Tuberville,MSFT,Sale (Full),Joint,"$1,001 - $15,000",Microsoft Corporation - Common Stock Option Type: Short Sale Strike price: $245.00  Expires: 06/16/2023,11-10-2022,10-28-2022
+Tommy,Tuberville,MSFT,Purchase,Joint,"$15,001 - $50,000",Microsoft Corporation - Common Stock,11-10-2022,10-24-2022
+Tommy,Tuberville,NU,Purchase,Joint,"$15,001 - $50,000",Nu Holdings Ltd. Class A Ordinary Shares,11-10-2022,10-13-2022
+Tommy,Tuberville,MSFT,Purchase,Joint,"$250,001 - $500,000",Microsoft Corporation - Common Stock,11-10-2022,10-13-2022
+Tommy,Tuberville,NU,Purchase,Joint,"$1,001 - $15,000",Nu Holdings Ltd. Class A Ordinary Shares,11-10-2022,10-11-2022
+Tommy,Tuberville,XOM,Sale (Full),Joint,"$15,001 - $50,000",Exxon Mobil Corporation Common Stock Option Type: Short Sale Strike price: $100.00  Expires: 06/16/2023,11-10-2022,10-06-2022
+Tommy,Tuberville,CVX,Sale (Full),Joint,"$15,001 - $50,000",Chevron Corporation Common Stock Option Type: Short Sale Strike price: $155.00  Expires: 06/16/2023,11-10-2022,10-06-2022
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Short Sale Strike price: $20.00  Expires: 06/16/2023,11-10-2022,10-06-2022
+Tommy,Tuberville,X,Sale (Full),Joint,"$15,001 - $50,000",United States Steel Corporation Common Stock Option Type: Short Sale Strike price: $20.00  Expires: 06/16/2023,11-10-2022,10-06-2022
+Tommy,Tuberville,NU,Purchase,Joint,"$1,001 - $15,000",Nu Holdings Ltd. Class A Ordinary Shares,11-10-2022,10-06-2022
+Tommy,Tuberville,VCTR,Purchase,Joint,"$1,001 - $15,000","Victory Capital Holdings, Inc. - Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,VCTR,Purchase,Joint,"$1,001 - $15,000","Victory Capital Holdings, Inc. - Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,VCTR,Purchase,Joint,"$1,001 - $15,000","Victory Capital Holdings, Inc. - Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,VRTX,Purchase,Joint,"$1,001 - $15,000",Vertex Pharmaceuticals Incorporated - Common Stock,11-10-2022,10-06-2022
+Tommy,Tuberville,TREX,Purchase,Joint,"$1,001 - $15,000","Trex Company, Inc. Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,SCI,Purchase,Joint,"$1,001 - $15,000",Service Corporation International Common Stock,11-10-2022,10-06-2022
+Tommy,Tuberville,RELX,Purchase,Joint,"$1,001 - $15,000",RELX PLC PLC American Depositary Shares (Each repr,11-10-2022,10-06-2022
+Tommy,Tuberville,RH,Purchase,Joint,"$1,001 - $15,000",RH Common Stock,11-10-2022,10-06-2022
+Tommy,Tuberville,PHM,Purchase,Joint,"$1,001 - $15,000","PulteGroup, Inc. Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,PAYC,Purchase,Joint,"$1,001 - $15,000","Paycom Software, Inc. Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,GIS,Purchase,Joint,"$1,001 - $15,000","General Mills, Inc. Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,GLPI,Purchase,Joint,"$1,001 - $15,000","Gaming and Leisure Properties, Inc. - Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,RACE,Purchase,Joint,"$1,001 - $15,000",Ferrari N.V. Common Shares,11-10-2022,10-06-2022
+Tommy,Tuberville,XOM,Purchase,Joint,"$50,001 - $100,000",Exxon Mobil Corporation Common Stock,11-10-2022,10-06-2022
+Tommy,Tuberville,EXR,Purchase,Joint,"$1,001 - $15,000",Extra Space Storage Inc Common Stock,11-10-2022,10-06-2022
+Tommy,Tuberville,ETSY,Purchase,Joint,"$1,001 - $15,000","Etsy, Inc. - Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,ELS,Purchase,Joint,"$1,001 - $15,000","Equity Lifestyle Properties, Inc. Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,DQ,Purchase,Joint,"$1,001 - $15,000","DAQO New Energy Corp. American Depositary Shares,",11-10-2022,10-06-2022
+Tommy,Tuberville,CROX,Purchase,Joint,"$1,001 - $15,000","Crocs, Inc. - Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,CSCO,Purchase,Joint,"$1,001 - $15,000","Cisco Systems, Inc. - Common Stock",11-10-2022,10-06-2022
+Tommy,Tuberville,AMGN,Purchase,Joint,"$1,001 - $15,000",Amgen Inc. - Common Stock,11-10-2022,10-06-2022
+Tommy,Tuberville,AMT,Purchase,Joint,"$1,001 - $15,000",American Tower Corporation (REIT) Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,ZTS,Sale (Full),Joint,"$1,001 - $15,000",Zoetis Inc. Class A Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,WIT,Sale (Full),Joint,"$1,001 - $15,000",Wipro Limited Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,SEIC,Sale (Full),Joint,"$1,001 - $15,000",SEI Investments Company - Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,RMD,Sale (Full),Joint,"$1,001 - $15,000",ResMed Inc. Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,TROW,Sale (Full),Joint,"$1,001 - $15,000","T. Rowe Price Group, Inc. - Common Stock",11-10-2022,10-05-2022
+Tommy,Tuberville,NOC,Sale (Full),Joint,"$1,001 - $15,000",Northrop Grumman Corporation Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,NVDA,Sale (Full),Joint,"$1,001 - $15,000",NVIDIA Corporation - Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,MNST,Sale (Full),Joint,"$1,001 - $15,000",Monster Beverage Corporation - Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,MSFT,Sale (Partial),Joint,"$100,001 - $250,000",Microsoft Corporation - Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,MASI,Sale (Full),Joint,"$1,001 - $15,000",Masimo Corporation - Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,MKTX,Sale (Full),Joint,"$1,001 - $15,000","MarketAxess Holdings, Inc. - Common Stock",11-10-2022,10-05-2022
+Tommy,Tuberville,IDXX,Sale (Full),Joint,"$1,001 - $15,000","IDEXX Laboratories, Inc. - Common Stock",11-10-2022,10-05-2022
+Tommy,Tuberville,HON,Sale (Full),Joint,"$1,001 - $15,000",Honeywell International Inc. - Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,GGG,Sale (Full),Joint,"$1,001 - $15,000",Graco Inc. Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,IT,Sale (Full),Joint,"$1,001 - $15,000","Gartner, Inc. Common Stock",11-10-2022,10-05-2022
+Tommy,Tuberville,GRMN,Sale (Full),Joint,"$1,001 - $15,000",Garmin Ltd. - Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,FAST,Sale (Full),Joint,"$1,001 - $15,000",Fastenal Company - Common Stock,11-10-2022,10-05-2022
+Tommy,Tuberville,EL,Sale (Full),Joint,"$1,001 - $15,000","Estee Lauder Companies, Inc. (The) Common Stock",11-10-2022,10-05-2022
+Tommy,Tuberville,DHI,Sale (Full),Joint,"$1,001 - $15,000","D.R. Horton, Inc. Common Stock",11-10-2022,10-05-2022
+Tommy,Tuberville,CHD,Sale (Full),Joint,"$1,001 - $15,000","Church &amp; Dwight Company, Inc. Common Stock",11-10-2022,10-05-2022
+Tommy,Tuberville,AMAT,Sale (Full),Joint,"$1,001 - $15,000","Applied Materials, Inc. - Common Stock",11-10-2022,10-05-2022
+Tommy,Tuberville,ALGN,Sale (Full),Joint,"$1,001 - $15,000","Align Technology, Inc. - Common Stock",11-10-2022,10-05-2022
+Tommy,Tuberville,APD,Sale (Full),Joint,"$1,001 - $15,000","Air Products and Chemicals, Inc. Common Stock",11-10-2022,10-05-2022
+Tommy,Tuberville,MRO,Sale (Full),Joint,"$1,001 - $15,000",Marathon Oil Corporation Common Stock Option Type: Short Sale Strike price: $23.00  Expires: 04/21/2023,11-10-2022,10-04-2022
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Common Stock Option Type: Short Sale Strike price: $60.00  Expires: 05/19/2023,11-10-2022,10-04-2022
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Common Stock Option Type: Short Sale Strike price: $60.00  Expires: 05/19/2023,11-10-2022,10-04-2022
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Common Stock Option Type: Short Sale Strike price: $60.00  Expires: 05/19/2023,11-10-2022,10-04-2022
+Tommy,Tuberville,OXY,Purchase,Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Common Stock Option Type: Short Sale Strike price: $60.00  Expires: 05/19/2023,11-10-2022,10-04-2022
+Tommy,Tuberville,FTBFX,Sale (Full),Self,"$15,001 - $50,000",Fidelity Total Bond,11-10-2022,10-25-2022
+Tommy,Tuberville,FDX,Sale (Full),Joint,"$1,001 - $15,000",FedEx Corporation Common Stock,11-10-2022,10-25-2022
+Tommy,Tuberville,MSFT,Sale (Partial),Joint,"$1,001 - $15,000",Microsoft Corporation - Common Stock Option Type: Short Sale Strike price: $265.00  Expires: 04/21/2023,10-12-2022,09-20-2022
+Tommy,Tuberville,X,Sale (Partial),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Short Sale Strike price: $24.00  Expires: 04/21/2023,10-12-2022,09-20-2022
+Tommy,Tuberville,X,Purchase,Joint,"$100,001 - $250,000",United States Steel Corporation Common Stock,10-12-2022,09-19-2022
+Tommy,Tuberville,MSFT,Purchase,Joint,"$250,001 - $500,000",Microsoft Corporation - Common Stock,10-12-2022,09-19-2022
+Tommy,Tuberville,ARKK,Purchase,Joint,"$1,001 - $15,000",Ark Innovation ETF,10-12-2022,09-19-2022
+Tommy,Tuberville,F,Sale (Full),Joint,"$15,001 - $50,000",Ford Motor Company Common Stock Option Type: Short Sale Strike price: $17.00  Expires: 06/16/2023,10-12-2022,09-12-2022
+Tommy,Tuberville,F,Purchase,Joint,"$1,001 - $15,000",Ford Motor Company Common Stock Option Type: Put Strike price: $17.00  Expires: 09/16/2022,10-12-2022,09-12-2022
+Tommy,Tuberville,F,Purchase,Joint,"$1,001 - $15,000",Ford Motor Company Common Stock Option Type: Put Strike price: $17.00  Expires: 09/16/2022,10-12-2022,09-12-2022
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$500,001 - $1,000,000",ChannelAdvisor Corporation Common Stock,10-12-2022,09-07-2022
+Tommy,Tuberville,ARKK,Purchase,Joint,"$50,001 - $100,000",Ark Innovation ETF,10-12-2022,09-07-2022
+Tommy,Tuberville,NU,Purchase,Joint,"$1,001 - $15,000",Nu Holdings Ltd. Class A Ordinary Shares,10-12-2022,09-06-2022
+Tommy,Tuberville,IVV,Sale (Full),Self,"$15,001 - $50,000",iShares Core S&amp;P 500 ETF,09-15-2022,08-01-2022
+Tommy,Tuberville,EFAV,Sale (Full),Self,"$15,001 - $50,000",iShares MSCI EAFE Min Vol Factor ETF,09-15-2022,08-01-2022
+Tommy,Tuberville,XLY,Sale (Full),Self,"$15,001 - $50,000",SPDR Select Sector Fund - Consumer Discretionary,09-15-2022,08-01-2022
+Tommy,Tuberville,VTRS,Sale (Full),Self,"$1,001 - $15,000",Viatris Inc. - Common Stock,09-15-2022,08-01-2022
+Tommy,Tuberville,ABNFX,Purchase,Self,"$15,001 - $50,000",The Bond Fd of America Class F-2 Shares,09-15-2022,08-01-2022
+Tommy,Tuberville,RSP,Purchase,Self,"$15,001 - $50,000",Invesco S&amp;P 500 Equal Weight ETF,09-15-2022,08-01-2022
+Tommy,Tuberville,IDV,Purchase,Self,"$15,001 - $50,000",iShares International Select Dividend ETF,09-15-2022,08-01-2022
+Tommy,Tuberville,DHS,Purchase,Self,"$15,001 - $50,000",Wisdomtree U.S. High Dividend Fund,09-15-2022,08-01-2022
+Tommy,Tuberville,PCNNX,Sale (Full),Self,"$15,001 - $50,000",Pimco Investment Grade Credit Bond Fund Class I-,09-15-2022,08-01-2022
+Tommy,Tuberville,JHCBX,Sale (Full),Joint,"$15,001 - $50,000",John Hancock Bond Fund Cl C,09-15-2022,08-01-2022
+Tommy,Tuberville,ORCL,Sale (Full),Joint,"$1,001 - $15,000",Oracle Corporation Common Stock,09-15-2022,08-01-2022
+Tommy,Tuberville,XLC,Sale (Full),Joint,"$15,001 - $50,000",The Communication Services Select Sector SPDR Fund,09-15-2022,08-01-2022
+Tommy,Tuberville,TSCO,Sale (Full),Joint,"$1,001 - $15,000",Tractor Supply Company - Common Stock,09-15-2022,08-01-2022
+Tommy,Tuberville,MUB,Purchase,Joint,"$50,001 - $100,000",iShares National Muni Bond ETF,09-15-2022,08-01-2022
+Tommy,Tuberville,OC,Purchase,Joint,"$15,001 - $50,000",Owens Corning Inc Common Stock New,09-15-2022,08-01-2022
+Tommy,Tuberville,SSYS,Sale (Full),Joint,"$50,001 - $100,000","Stratasys, Ltd. - Common Stock",09-15-2022,08-26-2022
+Tommy,Tuberville,ARKK,Purchase,Joint,"$50,001 - $100,000",Ark Innovation ETF,09-15-2022,08-25-2022
+Tommy,Tuberville,MRO,Purchase,Joint,"$1,001 - $15,000",Marathon Oil Corporation Common Stock Option Type: Put Strike price: $20.00  Expires: 09/16/2022,09-15-2022,08-18-2022
+Tommy,Tuberville,X,Purchase,Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Put Strike price: $20.00  Expires: 09/16/2022,09-15-2022,08-12-2022
+Tommy,Tuberville,INTC,Purchase,Joint,"$1,001 - $15,000",Intel Corporation - Common Stock,09-15-2022,08-05-2022
+Tommy,Tuberville,INTC,Purchase,Joint,"$100,001 - $250,000",Intel Corporation - Common Stock,09-15-2022,08-05-2022
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Short Sale Strike price: $22.00  Expires: 06/16/2023,09-15-2022,08-03-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$15,001 - $50,000","PayPal Holdings, Inc. - Common Stock Option Type: Short Sale Strike price: $125.00  Expires: 06/16/2023",09-15-2022,08-03-2022
+Tommy,Tuberville,CLF,Purchase,Joint,"$50,001 - $100,000",Cleveland-Cliffs Inc. Common Stock,08-15-2022,07-18-2022
+Tommy,Tuberville,ECOM,Purchase,Joint,"$100,001 - $250,000",ChannelAdvisor Corporation Common Stock,08-15-2022,07-14-2022
+Tommy,Tuberville,BRK.B,Sale (Full),Joint,"$100,001 - $250,000",Berkshire Hathaway Inc. New Common Stock,07-13-2022,06-17-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$50,001 - $100,000","PayPal Holdings, Inc. - Common Stock",07-13-2022,06-29-2022
+Tommy,Tuberville,QCOM,Sale (Partial),Joint,"$50,001 - $100,000",QUALCOMM Incorporated - Common Stock Option Type: Short Sale Strike price: $135.00  Expires: 06/16/2023,07-13-2022,06-28-2022
+Tommy,Tuberville,QCOM,Sale (Partial),Joint,"$250,001 - $500,000",QUALCOMM Incorporated - Common Stock,07-13-2022,06-28-2022
+Tommy,Tuberville,X,Sale (Partial),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Short Sale Strike price: $22.00  Expires: 09/16/2022,07-13-2022,06-22-2022
+Tommy,Tuberville,GOLD,Purchase,Joint,"$1,001 - $15,000",Barrick Gold Corporation Common Stock (BC) Option Type: Call Strike price: $27.00  Expires: 01/20/2023,07-13-2022,06-22-2022
+Tommy,Tuberville,GOLD,Sale (Full),Joint,"$50,001 - $100,000",Barrick Gold Corporation Common Stock (BC),07-13-2022,06-22-2022
+Tommy,Tuberville,X,Purchase,Joint,"$100,001 - $250,000",United States Steel Corporation Common Stock,07-13-2022,06-21-2022
+Tommy,Tuberville,SSYS,Purchase,Joint,"$1,001 - $15,000","Stratasys, Ltd. - Common Stock",07-13-2022,06-21-2022
+Tommy,Tuberville,INTC,Purchase,Joint,"$50,001 - $100,000",Intel Corporation - Common Stock,07-13-2022,06-21-2022
+Tommy,Tuberville,SCCO,Sale (Full),Joint,"$100,001 - $250,000",Southern Copper Corporation Common Stock,07-13-2022,06-17-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$100,001 - $250,000","PayPal Holdings, Inc. - Common Stock",07-13-2022,06-17-2022
+Tommy,Tuberville,EVT,Sale (Full),Joint,"$50,001 - $100,000",Eaton Vance Tax Advantaged Dividend Income Fund Co,07-13-2022,06-17-2022
+Tommy,Tuberville,CVX,Sale (Full),Joint,"$1,001 - $15,000",Chevron Corporation Common Stock,07-13-2022,06-17-2022
+Tommy,Tuberville,QCOM,Purchase,Joint,"$250,001 - $500,000",QUALCOMM Incorporated - Common Stock,07-13-2022,06-16-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock",07-13-2022,06-16-2022
+Tommy,Tuberville,NVDA,Sale (Full),Joint,"$15,001 - $50,000",NVIDIA Corporation - Common Stock Option Type: Short Sale Strike price: $150.00  Expires: 03/17/2023,07-13-2022,06-15-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$50,001 - $100,000","PayPal Holdings, Inc. - Common Stock Option Type: Short Sale Strike price: $150.00  Expires: 09/15/2023",07-13-2022,06-15-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$50,001 - $100,000","PayPal Holdings, Inc. - Common Stock Option Type: Put Strike price: $220.00  Expires: 06/17/2022",07-13-2022,06-15-2022
+Tommy,Tuberville,QCOM,Purchase,Joint,"$1,001 - $15,000",QUALCOMM Incorporated - Common Stock Option Type: Put Strike price: $130.00  Expires: 06/17/2022,07-13-2022,06-15-2022
+Tommy,Tuberville,NVDA,Purchase,Joint,"$15,001 - $50,000",NVIDIA Corporation - Common Stock Option Type: Put Strike price: $180.00  Expires: 06/17/2022,07-13-2022,06-15-2022
+Tommy,Tuberville,SSYS,Purchase,Joint,"$1,001 - $15,000","Stratasys, Ltd. - Common Stock",07-13-2022,06-14-2022
+Tommy,Tuberville,SSYS,Purchase,Joint,"$15,001 - $50,000","Stratasys, Ltd. - Common Stock",07-13-2022,06-09-2022
+Tommy,Tuberville,INTC,Purchase,Joint,"$15,001 - $50,000",Intel Corporation - Common Stock,07-13-2022,06-09-2022
+Tommy,Tuberville,NVDA,Purchase,Joint,"$1,001 - $15,000",NVIDIA Corporation - Common Stock Option Type: Short Sale Strike price: $150.00  Expires: 12/16/2022,07-13-2022,06-08-2022
+Tommy,Tuberville,EVT,Purchase,Joint,"$15,001 - $50,000",Eaton Vance Tax Advantaged Dividend Income Fund Co,07-13-2022,06-06-2022
+Tommy,Tuberville,ECOM,Purchase,Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Common Stock,07-13-2022,06-01-2022
+Tommy,Tuberville,X,Sale (Partial),Joint,"$15,001 - $50,000",United States Steel Corporation Common Stock Option Type: Put Strike price: $23.00  Expires: 01/20/2023,06-13-2022,05-31-2022
+Tommy,Tuberville,X,Sale (Full),Joint,"$15,001 - $50,000",United States Steel Corporation Common Stock Option Type: Call Strike price: $30.00  Expires: 01/20/2023,06-13-2022,05-31-2022
+Tommy,Tuberville,X,Purchase,Joint,"$100,001 - $250,000",United States Steel Corporation Common Stock,06-13-2022,05-31-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$50,001 - $100,000","PayPal Holdings, Inc. - Common Stock",06-13-2022,05-20-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$250,001 - $500,000","PayPal Holdings, Inc. - Common Stock",06-13-2022,05-19-2022
+Tommy,Tuberville,SQ,Sale (Full),Self,"$1,001 - $15,000","Block, Inc. Class A Common Stock,",05-13-2022,04-11-2022
+Tommy,Tuberville,PYPL,Purchase,Self,"$15,001 - $50,000","PayPal Holdings, Inc. - Common Stock",05-13-2022,04-11-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$50,001 - $100,000","PayPal Holdings, Inc. - Common Stock",05-13-2022,04-28-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock Option Type: Call Strike price: $135.00  Expires: 09/16/2022",05-13-2022,04-28-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$50,001 - $100,000","PayPal Holdings, Inc. - Common Stock Option Type: Short Sale Strike price: $125.00  Expires: 06/16/2023",05-13-2022,04-28-2022
+Tommy,Tuberville,ECOM,Purchase,Joint,"$100,001 - $250,000",ChannelAdvisor Corporation Common Stock,05-13-2022,04-21-2022
+Tommy,Tuberville,WST,Sale (Full),Joint,"$1,001 - $15,000","West Pharmaceutical Services, Inc. Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,VEEV,Sale (Full),Joint,"$1,001 - $15,000",Veeva Systems Inc. Class A Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,VMW,Sale (Full),Joint,"$1,001 - $15,000","Vmware, Inc. Common stock, Class A",04-08-2022,03-30-2022
+Tommy,Tuberville,SNA,Sale (Full),Joint,"$1,001 - $15,000",Snap-On Incorporated Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,SIVB,Sale (Full),Joint,"$1,001 - $15,000",SVB Financial Group - Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,SPGI,Sale (Full),Joint,"$1,001 - $15,000",S&amp;P Global Inc. Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,ROK,Sale (Full),Joint,"$1,001 - $15,000","Rockwell Automation, Inc. Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,REGN,Sale (Full),Joint,"$1,001 - $15,000","Regeneron Pharmaceuticals, Inc. - Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,NFLX,Sale (Full),Joint,"$1,001 - $15,000","Netflix, Inc. - Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,LMST,Purchase,Joint,"$1,001 - $15,000","Limestone Bancorp, Inc. - Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,KEY,Purchase,Joint,"$1,001 - $15,000",KeyCorp Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,INTU,Sale (Full),Joint,"$1,001 - $15,000",Intuit Inc. - Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,GNRC,Sale (Full),Joint,"$1,001 - $15,000",Generac Holdlings Inc. Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,FGBI,Purchase,Joint,"$1,001 - $15,000","First Guaranty Bancshares, Inc. - Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,FITB,Purchase,Joint,"$1,001 - $15,000",Fifth Third Bancorp - Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,EXP,Sale (Full),Joint,"$1,001 - $15,000",Eagle Materials Inc Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,DEO,Sale (Full),Joint,"$1,001 - $15,000",Diageo plc Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,CFG,Purchase,Joint,"$1,001 - $15,000","Citizens Financial Group, Inc. Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,CE,Sale (Full),Joint,"$1,001 - $15,000",Celanese Corporation Celanese Corporation Common S,04-08-2022,03-30-2022
+Tommy,Tuberville,CP,Sale (Full),Joint,"$1,001 - $15,000",Canadian Pacific Railway Ltd,04-08-2022,03-30-2022
+Tommy,Tuberville,CABO,Sale (Full),Joint,"$1,001 - $15,000","Cable One, Inc. Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,BKE,Sale (Full),Joint,"$1,001 - $15,000","Buckle, Inc. (The) Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,BIO,Sale (Full),Joint,"$1,001 - $15,000","Bio-Rad Laboratories, Inc. Class A Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,BMO,Purchase,Joint,"$1,001 - $15,000",Bank of Montreal,04-08-2022,03-30-2022
+Tommy,Tuberville,TMO,Purchase,Joint,"$1,001 - $15,000",Thermo Fisher Scientific Inc Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,RMD,Purchase,Joint,"$1,001 - $15,000",ResMed Inc. Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,RF,Purchase,Joint,"$1,001 - $15,000",Regions Financial Corporation Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,NOC,Purchase,Joint,"$1,001 - $15,000",Northrop Grumman Corporation Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,NDAQ,Purchase,Joint,"$1,001 - $15,000","Nasdaq, Inc. - Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,MRK,Purchase,Joint,"$1,001 - $15,000","Merck &amp; Company, Inc. Common Stock (new)",04-08-2022,03-30-2022
+Tommy,Tuberville,MASI,Purchase,Joint,"$1,001 - $15,000",Masimo Corporation - Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,MMC,Purchase,Joint,"$1,001 - $15,000","Marsh &amp; McLennan Companies, Inc. Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,MKSI,Purchase,Joint,"$1,001 - $15,000","MKS Instruments, Inc. - Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,HUMA,Purchase,Joint,"$15,001 - $50,000","Humacyte, Inc. - Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,HON,Purchase,Joint,"$1,001 - $15,000",Honeywell International Inc. - Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,GFI,Purchase,Joint,"$1,001 - $15,000",Gold Fields Limited American Depositary Shares,04-08-2022,03-30-2022
+Tommy,Tuberville,IT,Purchase,Joint,"$1,001 - $15,000","Gartner, Inc. Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,DHI,Purchase,Joint,"$1,001 - $15,000","D.R. Horton, Inc. Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,CDNS,Purchase,Joint,"$1,001 - $15,000","Cadence Design Systems, Inc. - Common Stock",04-08-2022,03-30-2022
+Tommy,Tuberville,AME,Purchase,Joint,"$1,001 - $15,000","AMETEK, Inc.",04-08-2022,03-30-2022
+Tommy,Tuberville,GOOG,Purchase,Joint,"$1,001 - $15,000",Alphabet Inc. - Class C Capital Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,ABBV,Purchase,Joint,"$1,001 - $15,000",AbbVie Inc. Common Stock,04-08-2022,03-30-2022
+Tommy,Tuberville,GOLD,Sale (Full),Joint,"$1,001 - $15,000",Barrick Gold Corporation Common Stock (BC) Option Type: Short Sale Strike price: $27.00  Expires: 01/20/2023,04-08-2022,03-23-2022
+Tommy,Tuberville,GOLD,Sale (Full),Joint,"$1,001 - $15,000",Barrick Gold Corporation Common Stock (BC) Option Type: Short Sale Strike price: $23.00  Expires: 01/20/2023,04-08-2022,03-23-2022
+Tommy,Tuberville,MSFT,Sale (Full),Joint,"$15,001 - $50,000",Microsoft Corporation - Common Stock Option Type: Short Sale Strike price: $265.00  Expires: 10/21/2022,04-08-2022,03-22-2022
+Tommy,Tuberville,SCCO,Purchase,Joint,"$1,001 - $15,000",Southern Copper Corporation Common Stock Option Type: Put Strike price: $55.00  Expires: 06/17/2022,04-08-2022,03-22-2022
+Tommy,Tuberville,NU,Purchase,Joint,"$1,001 - $15,000",Nu Holdings Ltd. Class A Ordinary Shares Option Type: Short Sale Strike price: $9.00  Expires: 12/16/22,04-08-2022,03-22-2022
+Tommy,Tuberville,ECOM,Purchase,Joint,"$15,001 - $50,000",ChannelAdvisor Corporation Common Stock,04-08-2022,03-21-2022
+Tommy,Tuberville,NU,Purchase,Joint,"$15,001 - $50,000",Nu Holdings Ltd. Class A Ordinary Shares,04-08-2022,03-21-2022
+Tommy,Tuberville,ECOM,Purchase,Joint,"$50,001 - $100,000",ChannelAdvisor Corporation Common Stock,04-08-2022,03-08-2022
+Ron,Wyden,AAPL,Sale (Partial),Spouse,"$50,001 - $100,000",Apple Inc. - Common Stock,03-23-2022,02-24-2022
+Ron,Wyden,AAPL,Purchase,Spouse,"$50,001 - $100,000",Apple Inc. - Common Stock,03-23-2022,02-24-2022
+Tommy,Tuberville,OXY,Sale (Partial),Joint,"$50,001 - $100,000",Occidental Petroleum Corporation Common Stock,03-11-2022,02-22-2022
+Tommy,Tuberville,ARKK,Sale (Full),Joint,"$1,001 - $15,000",Ark Innovation ETF Option Type: Short Sale Strike price: $65.00  Expires: 09/16/2022,03-11-2022,02-17-2022
+Tommy,Tuberville,ARKK,Sale (Full),Joint,"$1,001 - $15,000",Ark Innovation ETF Option Type: Short Sale Strike price: $65.00  Expires: 09/16/2022,03-11-2022,02-17-2022
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Short Sale Strike price: $22.00  Expires: 09/16/2022,03-11-2022,02-10-2022
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Short Sale Strike price: $27.00  Expires: 09/16/2022,03-11-2022,02-10-2022
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Short Sale Strike price: $27.00  Expires: 09/16/2022,03-11-2022,02-10-2022
+Tommy,Tuberville,X,Purchase,Joint,"$100,001 - $250,000",United States Steel Corporation Common Stock,03-11-2022,02-10-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock Option Type: Short Sale Strike price: $140.00  Expires: 09/16/2022",03-11-2022,02-09-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock Option Type: Short Sale Strike price: $140.00  Expires: 09/16/2022",03-11-2022,02-09-2022
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock Option Type: Short Sale Strike price: $135.00  Expires: 09/16/2022",03-11-2022,02-09-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$15,001 - $50,000","PayPal Holdings, Inc. - Common Stock",03-11-2022,02-09-2022
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Common Stock Option Type: Short Sale Strike price: $22.50  Expires: 09/16/2022,03-11-2022,02-07-2022
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Common Stock Option Type: Short Sale Strike price: $22.50  Expires: 09/16/2022,03-11-2022,02-07-2022
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Common Stock Option Type: Short Sale Strike price: $22.50  Expires: 09/16/2022,03-11-2022,02-07-2022
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Common Stock Option Type: Short Sale Strike price: $22.50  Expires: 09/16/2022,03-11-2022,02-07-2022
+Tommy,Tuberville,PYPL,Purchase,Joint,"$50,001 - $100,000","PayPal Holdings, Inc. - Common Stock",03-11-2022,02-07-2022
+Tommy,Tuberville,F,Sale (Full),Joint,"$15,001 - $50,000",Ford Motor Company Common Stock Option Type: Short Sale Strike price: $20.00  Expires: 01/20/2023,03-11-2022,02-01-2022
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Short Sale Strike price: $20.00  Expires: 09/16/2022,03-11-2022,02-01-2022
+Tommy,Tuberville,MSFT,Sale (Full),Joint,"$15,001 - $50,000",Microsoft Corporation - Common Stock Option Type: Short Sale Strike price: $265.00  Expires: 09/16/2022,03-11-2022,02-01-2022
+Tommy,Tuberville,MRO,Sale (Full),Joint,"$1,001 - $15,000",Marathon Oil Corporation Common Stock Option Type: Short Sale Strike price: $20.00  Expires: 09/16/2022,03-11-2022,02-01-2022
+Tommy,Tuberville,MRO,Sale (Full),Joint,"$1,001 - $15,000",Marathon Oil Corporation Common Stock Option Type: Short Sale Strike price: $20.00  Expires: 09/16/2022,03-11-2022,02-01-2022
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc. Common Stock Option Type: Short Sale Strike price: $22.00  Expires: 01/20/2023,03-11-2022,02-01-2022
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$1,001 - $15,000",Intel Corporation - Common Stock Option Type: Short Sale Strike price: $52.50  Expires: 09/16/2022,02-14-2022,01-05-2022
+Tommy,Tuberville,GOLD,Purchase,Joint,"$50,001 - $100,000",Barrick Gold Corporation Common Stock (BC),02-14-2022,01-24-2022
+Tommy,Tuberville,BABA,Purchase,Joint,"$15,001 - $50,000",Alibaba Group Holding Limited American Depositary Option Type: Put Strike price: $245.00  Expires: 01/21/2022,02-14-2022,01-14-2022
+Tommy,Tuberville,QCOM,Sale (Full),Joint,"$15,001 - $50,000",QUALCOMM Incorporated - Common Stock Option Type: Short Sale Strike price: $170.00  Expires: 07/15/2022,02-14-2022,01-14-2022
+Tommy,Tuberville,BABA,Purchase,Joint,"$15,001 - $50,000",Alibaba Group Holding Limited American Depositary Option Type: Put Strike price: $230.00  Expires: 09/16/2022,02-14-2022,01-14-2022
+Tommy,Tuberville,BABA,Purchase,Joint,"$50,001 - $100,000",Alibaba Group Holding Limited American Depositary Option Type: Put Strike price: $230.00  Expires: 09/16/2022,02-14-2022,01-14-2022
+Tommy,Tuberville,QCOM,Sale (Full),Joint,"$15,001 - $50,000",QUALCOMM Incorporated - Common Stock Option Type: Short Sale Strike price: $165.00  Expires: 01/20/2023,02-14-2022,01-14-2022
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $23.00  Expires: 07/15/2022,02-14-2022,01-14-2022
+Tommy,Tuberville,CLF,Purchase,Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $23.00  Expires: 01/21/2022,02-14-2022,01-14-2022
+Tommy,Tuberville,X,Sale (Full),Joint,"$15,001 - $50,000",United States Steel Corporation Common Stock Option Type: Short Sale Strike price: $25.00  Expires: 06/17/2022,02-14-2022,01-13-2022
+Tommy,Tuberville,INTC,Purchase,Joint,"$15,001 - $50,000",Intel Corporation - Common Stock Option Type: Short Sale Strike price: $55.00  Expires: 01/20/2023,02-14-2022,01-12-2022
+Tommy,Tuberville,WBA,Purchase,Joint,"$1,001 - $15,000","Walgreens Boots Alliance, Inc. - Common Stock",02-14-2022,01-12-2022
+Tommy,Tuberville,VZ,Purchase,Joint,"$1,001 - $15,000",Verizon Communications Inc. Common Stock,02-14-2022,01-12-2022
+Tommy,Tuberville,MMM,Purchase,Joint,"$1,001 - $15,000",3M Company Common Stock,02-14-2022,01-12-2022
+Tommy,Tuberville,PFE,Purchase,Joint,"$1,001 - $15,000","Pfizer, Inc. Common Stock",02-14-2022,01-12-2022
+Tommy,Tuberville,IBM,Purchase,Joint,"$1,001 - $15,000",International Business Machines Corporat,02-14-2022,01-12-2022
+Tommy,Tuberville,INTC,Purchase,Joint,"$1,001 - $15,000",Intel Corporation - Common Stock,02-14-2022,01-12-2022
+Tommy,Tuberville,KO,Purchase,Joint,"$1,001 - $15,000",Coca-Cola Company (The) Common Stock,02-14-2022,01-12-2022
+Tommy,Tuberville,CSCO,Purchase,Joint,"$1,001 - $15,000","Cisco Systems, Inc. - Common Stock",02-14-2022,01-12-2022
+Tommy,Tuberville,CVX,Purchase,Joint,"$1,001 - $15,000",Chevron Corporation Common Stock,02-14-2022,01-12-2022
+Tommy,Tuberville,DOW,Purchase,Joint,"$1,001 - $15,000",Dow Inc. Common Stock,02-14-2022,01-12-2022
+Tommy,Tuberville,AMGN,Purchase,Joint,"$1,001 - $15,000",Amgen Inc. - Common Stock,02-14-2022,01-12-2022
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$1,001 - $15,000",Intel Corporation - Common Stock Option Type: Short Sale Strike price: $52.50  Expires: 09/16/2022,02-14-2022,01-05-2022
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Short Sale Strike price: $22.00  Expires: 07/15/2022,02-14-2022,01-04-2022
+Tommy,Tuberville,SSYS,Sale (Full),Joint,"$1,001 - $15,000","Stratasys, Ltd. - Common Stock Option Type: Short Sale Strike price: $25.00  Expires: 06/17/2022",02-14-2022,01-03-2022
+Tommy,Tuberville,SSYS,Sale (Full),Joint,"$1,001 - $15,000","Stratasys, Ltd. - Common Stock Option Type: Short Sale Strike price: $25.00  Expires: 06/17/2022",02-14-2022,01-03-2022
+Tommy,Tuberville,SSYS,Sale (Full),Joint,"$1,001 - $15,000","Stratasys, Ltd. - Common Stock Option Type: Short Sale Strike price: $25.00  Expires: 06/17/2022",02-14-2022,01-03-2022
+Tommy,Tuberville,SSYS,Sale (Full),Joint,"$1,001 - $15,000","Stratasys, Ltd. - Common Stock Option Type: Short Sale Strike price: $25.00  Expires: 06/17/2022",02-14-2022,01-03-2022
+Tommy,Tuberville,DUK,Sale (Full),Joint,"$15,001 - $50,000",Duke Energy Corporation (Holding Company) Common S,02-14-2022,01-21-2022
+Tommy,Tuberville,MDT,Sale (Full),Joint,"$15,001 - $50,000",Medtronic plc. Ordinary Shares,02-14-2022,01-21-2022
+Tommy,Tuberville,ABBV,Sale (Full),Joint,"$1,001 - $15,000",AbbVie Inc. Common Stock,02-14-2022,01-21-2022
+Tommy,Tuberville,ABC,Sale (Full),Joint,"$15,001 - $50,000",AmerisourceBergen Corporation Common Stock,02-14-2022,01-21-2022
+Tommy,Tuberville,CTAS,Sale (Full),Joint,"$15,001 - $50,000",Cintas Corporation - Common Stock,02-14-2022,01-21-2022
+Tommy,Tuberville,LMT,Sale (Full),Joint,"$15,001 - $50,000",Lockheed Martin Corporation Common Stock,02-14-2022,01-21-2022
+Tommy,Tuberville,PEP,Sale (Full),Joint,"$1,001 - $15,000","PepsiCo, Inc. - Common Stock",02-14-2022,01-21-2022
+Tommy,Tuberville,PM,Sale (Full),Joint,"$15,001 - $50,000",Philip Morris International Inc Common Stock,02-14-2022,01-21-2022
+Tommy,Tuberville,PONCX,Sale (Full),Joint,"$15,001 - $50,000",Pimco Income Fund Class C,02-14-2022,01-21-2022
+Tommy,Tuberville,PG,Sale (Full),Joint,"$15,001 - $50,000",Procter &amp; Gamble Company (The) Common Stock,02-14-2022,01-21-2022
+Tommy,Tuberville,TSN,Sale (Full),Joint,"$15,001 - $50,000","Tyson Foods, Inc. Common Stock",02-14-2022,01-21-2022
+Tommy,Tuberville,XEL,Sale (Full),Joint,"$15,001 - $50,000",Xcel Energy Inc. - Common Stock,02-14-2022,01-21-2022
+Tommy,Tuberville,ABQCX,Sale (Full),Joint,"$15,001 - $50,000",Ab Bond Fund Inc. - Ab Total Return Bond Portfo,02-14-2022,01-13-2022
+Tommy,Tuberville,FUN,Sale (Full),Joint,"$15,001 - $50,000","Cedar Fair, L.P. Common Stock",02-14-2022,01-13-2022
+Tommy,Tuberville,CRWD,Sale (Full),Joint,"$15,001 - $50,000","CrowdStrike Holdings, Inc. - Class A Common Stock",02-14-2022,01-13-2022
+Tommy,Tuberville,FGSCX,Sale (Full),Joint,"$15,001 - $50,000",Federated Mdt Mid Cap Growth Fund - C Shares,02-14-2022,01-13-2022
+Tommy,Tuberville,GILD,Sale (Full),Joint,"$1,001 - $15,000","Gilead Sciences, Inc. - Common Stock",02-14-2022,01-13-2022
+Tommy,Tuberville,CLOU,Sale (Full),Joint,"$15,001 - $50,000",Global X Cloud Computing ETF,02-14-2022,01-13-2022
+Tommy,Tuberville,NWL,Sale (Full),Joint,"$15,001 - $50,000",Newell Brands Inc. - Common Stock,02-14-2022,01-13-2022
+Tommy,Tuberville,PEGA,Sale (Full),Joint,"$15,001 - $50,000",Pegasystems Inc. - Common Stock,02-14-2022,01-13-2022
+Tommy,Tuberville,VTRS,Sale (Full),Joint,"$1,001 - $15,000",Viatris Inc. - Common Stock,02-14-2022,01-13-2022
+Tommy,Tuberville,ACN,Sale (Full),Joint,"$15,001 - $50,000",Accenture plc Class A Ordinary Shares (Ireland),02-14-2022,01-14-2022
+Tommy,Tuberville,ADBE,Sale (Full),Joint,"$15,001 - $50,000",Adobe Inc. - Common Stock,02-14-2022,01-14-2022
+Tommy,Tuberville,AWK,Sale (Full),Joint,"$15,001 - $50,000","American Water Works Company, Inc. Common Stock",02-14-2022,01-14-2022
+Tommy,Tuberville,AAPL,Sale (Full),Joint,"$15,001 - $50,000",Apple Inc. - Common Stock,02-14-2022,01-14-2022
+Tommy,Tuberville,CTAS,Sale (Full),Joint,"$15,001 - $50,000",Cintas Corporation - Common Stock,02-14-2022,01-14-2022
+Tommy,Tuberville,LLY,Sale (Full),Joint,"$15,001 - $50,000",Eli Lilly and Company Common Stock,02-14-2022,01-14-2022
+Tommy,Tuberville,MA,Sale (Full),Joint,"$1,001 - $15,000",Mastercard Incorporated Common Stock,02-14-2022,01-14-2022
+Tommy,Tuberville,MSFT,Sale (Full),Joint,"$15,001 - $50,000",Microsoft Corporation - Common Stock,02-14-2022,01-14-2022
+Tommy,Tuberville,NEE,Sale (Full),Joint,"$15,001 - $50,000","NextEra Energy, Inc. Common Stock",02-14-2022,01-14-2022
+Tommy,Tuberville,RTX,Sale (Full),Joint,"$1,001 - $15,000",Raytheon Technologies Corporation Common Stock,02-14-2022,01-14-2022
+Tommy,Tuberville,WMT,Sale (Full),Joint,"$1,001 - $15,000",Walmart Inc. Common Stock,02-14-2022,01-14-2022
+Tommy,Tuberville,AAPL,Sale (Partial),Joint,"$50,001 - $100,000",Apple Inc. - Common Stock,01-12-2022,12-22-2021
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$15,001 - $50,000","PayPal Holdings, Inc. - Common Stock Option Type: Short Sale Strike price: $185.00  Expires: 09/16/2022",01-12-2022,12-29-2021
+Tommy,Tuberville,QQQ,Purchase,Joint,"$1,001 - $15,000","Invesco QQQ Trust, Series 1 Option Type: Put Strike price: $285.00  Expires: 03/18/2022",01-12-2022,12-29-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$15,001 - $50,000",ChannelAdvisor Corporation Common Stock Option Type: Short Sale Strike price: $25.00  Expires: 06/17/2022,01-12-2022,12-27-2021
+Tommy,Tuberville,CLF,Purchase,Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $17.00  Expires: 01/21/2022,01-12-2022,12-23-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Common Stock Option Type: Short Sale Strike price: $25.00  Expires: 06/17/2022,01-12-2022,12-23-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$15,001 - $50,000",ChannelAdvisor Corporation Common Stock Option Type: Short Sale Strike price: $25.00  Expires: 06/17/2022,01-12-2022,12-23-2021
+Tommy,Tuberville,BABA,Sale (Partial),Joint,"$50,001 - $100,000",Alibaba Group Holding Limited American Depositary,01-12-2022,12-23-2021
+Tommy,Tuberville,BABA,Purchase,Joint,"$15,001 - $50,000",Alibaba Group Holding Limited American Depositary,01-12-2022,12-21-2021
+Tommy,Tuberville,BABA,Purchase,Joint,"$50,001 - $100,000",Alibaba Group Holding Limited American Depositary,01-12-2022,12-15-2021
+Tommy,Tuberville,BABA,Purchase,Joint,"$50,001 - $100,000",Alibaba Group Holding Limited American Depositary,01-12-2022,12-14-2021
+Tommy,Tuberville,SSYS,Purchase,Joint,"$15,001 - $50,000","Stratasys, Ltd. - Common Stock",01-12-2022,12-13-2021
+Tommy,Tuberville,MSFT,Purchase,Joint,"$1,001 - $15,000",Microsoft Corporation - Common Stock Option Type: Put Strike price: $210.00  Expires: 03/18/2022,12-10-2021,11-22-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Common Stock Option Type: Short Sale Strike price: $29.00  Expires: 06/17/2022,12-10-2021,11-22-2021
+Tommy,Tuberville,ECOM,Purchase,Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Common Stock Option Type: Short Sale Strike price: $25.00  Expires: 06/17/2022,12-10-2021,11-22-2021
+Tommy,Tuberville,AAPL,Purchase,Joint,"$1,001 - $15,000",Apple Inc. - Common Stock Option Type: Put Strike price: $102.50  Expires: 06/17/2022,12-10-2021,11-22-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$50,001 - $100,000",Occidental Petroleum Corporation Common Stock,12-10-2021,11-22-2021
+Tommy,Tuberville,PYPL,Sale (Partial),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock Option Type: Short Sale Strike price: $185.00  Expires: 01/20/2023",12-10-2021,11-17-2021
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock Option Type: Short Sale Strike price: $185.00  Expires: 01/20/2023",12-10-2021,11-17-2021
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. - Common Stock Option Type: Short Sale Strike price: $185.00  Expires: 01/20/2023",12-10-2021,11-17-2021
+Tommy,Tuberville,ADBE,Purchase,Joint,"$1,001 - $15,000",Adobe Inc. - Common Stock Option Type: Put Strike price: $400.00  Expires: 01/21/2022,12-10-2021,11-12-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc. Common Stock Option Type: Short Sale Strike price: $22.00  Expires: 01/20/2023,12-10-2021,11-08-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $27.00  Expires: 01/20/2023,12-10-2021,11-08-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $27.00  Expires: 01/20/2023,12-10-2021,11-08-2021
+Tommy,Tuberville,CLF,Purchase,Joint,"$100,001 - $250,000",Cleveland-Cliffs Inc. Common Stock,12-10-2021,11-08-2021
+Tommy,Tuberville,F,Purchase,Joint,"$1,001 - $15,000",Ford Motor Company Common Stock Option Type: Short Sale Strike price: $17.00  Expires: 09/16/2022,12-10-2021,11-05-2021
+Tommy,Tuberville,F,Purchase,Joint,"$1,001 - $15,000",Ford Motor Company Common Stock Option Type: Short Sale Strike price: $17.00  Expires: 09/16/2022,12-10-2021,11-05-2021
+Tommy,Tuberville,SSYS,Sale (Full),Joint,"$1,001 - $15,000","Stratasys, Ltd. - Common Stock Option Type: Short Sale Strike price: $40.00  Expires: 03/18/2022",12-10-2021,11-04-2021
+Tommy,Tuberville,SCCO,Purchase,Joint,"$1,001 - $15,000",Southern Copper Corporation Common Stock Option Type: Short Sale Strike price: $55.00  Expires: 06/17/2022,12-10-2021,11-02-2021
+Tommy,Tuberville,SCCO,Sale (Full),Joint,"$1,001 - $15,000",Southern Copper Corporation Common Stock Option Type: Short Sale Strike price: $55.00  Expires: 06/17/2022,12-10-2021,11-02-2021
+Tommy,Tuberville,SCCO,Sale (Full),Joint,"$1,001 - $15,000",Southern Copper Corporation Common Stock Option Type: Call Strike price: $65.00  Expires: 06/17/2022,12-10-2021,11-02-2021
+Tommy,Tuberville,SCCO,Purchase,Joint,"$100,001 - $250,000",Southern Copper Corporation Common Stock,12-10-2021,11-02-2021
+Tommy,Tuberville,QCOM,Sale (Full),Joint,"$1,001 - $15,000",QUALCOMM Incorporated - Common Stock Option Type: Put Strike price: $130.00  Expires: 06/17/2022,11-10-2021,10-26-2021
+Tommy,Tuberville,RMD,Sale (Full),Joint,"$1,001 - $15,000",ResMed Inc. Common Stock,11-10-2021,10-26-2021
+Tommy,Tuberville,APAM,Sale (Full),Joint,"$1,001 - $15,000",Artisan Partners Asset Management Inc. Class A Com,11-10-2021,10-26-2021
+Tommy,Tuberville,AON,Sale (Full),Joint,"$1,001 - $15,000",Aon plc Class A Ordinary Shares (Ireland),11-10-2021,10-26-2021
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Put Strike price: $22.00  Expires: 06/17/2022,11-10-2021,10-21-2021
+Tommy,Tuberville,CALX,Purchase,Joint,"$1,001 - $15,000","Calix, Inc Common Stock Option Type: Put Strike price: $55.00  Expires: 11/18/2022",11-10-2021,10-18-2021
+Tommy,Tuberville,CALX,Sale (Full),Joint,"$1,001 - $15,000","Calix, Inc Common Stock Option Type: Put Strike price: $55.00  Expires: 11/18/2022",11-10-2021,10-18-2021
+Tommy,Tuberville,CALX,Sale (Full),Joint,"$1,001 - $15,000","Calix, Inc Common Stock Option Type: Put Strike price: $55.00  Expires: 11/18/2022",11-10-2021,10-18-2021
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$1,001 - $15,000",Intel Corporation - Common Stock Option Type: Call Strike price: $60.00  Expires: 06/17/2022,11-10-2021,10-18-2021
+Tommy,Tuberville,INTC,Purchase,Joint,"$50,001 - $100,000",Intel Corporation - Common Stock,11-10-2021,10-18-2021
+Tommy,Tuberville,AA,Sale (Full),Joint,"$100,001 - $250,000",Alcoa Corporation Common Stock,11-10-2021,10-18-2021
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Common Stock Option Type: Call Strike price: $25.00  Expires: 06/17/2022,11-10-2021,10-18-2021
+Tommy,Tuberville,X,Purchase,Joint,"$100,001 - $250,000",United States Steel Corporation Common Stock,11-10-2021,10-18-2021
+Tommy,Tuberville,INTC,Purchase,Joint,"$15,001 - $50,000",Intel Corporation - Common Stock,11-10-2021,10-15-2021
+Tommy,Tuberville,AA,Sale (Full),Joint,"$1,001 - $15,000",Alcoa Corporation Common Stock,11-10-2021,10-15-2021
+Tommy,Tuberville,GE,Sale (Full),Self,"$15,001 - $50,000",General Electric Company Common Stock,11-10-2021,10-18-2021
+Tommy,Tuberville,UAA,Sale (Full),Self,"$15,001 - $50,000","Under Armour, Inc. Class A Common Stock",11-10-2021,10-18-2021
+Tommy,Tuberville,UA,Sale (Full),Self,"$15,001 - $50,000","Under Armour, Inc. Class C Common Stock",11-10-2021,10-18-2021
+Tommy,Tuberville,BDX,Sale (Full),Joint,"$15,001 - $50,000","Becton, Dickinson and Company Common Stock",11-10-2021,10-18-2021
+Tommy,Tuberville,D,Sale (Full),Joint,"$15,001 - $50,000","Dominion Energy, Inc. Common Stock",11-10-2021,10-18-2021
+Tommy,Tuberville,DOW,Sale (Full),Joint,"$1,001 - $15,000",Dow Inc. Common Stock,11-10-2021,10-18-2021
+Tommy,Tuberville,GD,Sale (Full),Joint,"$15,001 - $50,000",General Dynamics Corporation Common Stock,11-10-2021,10-18-2021
+Tommy,Tuberville,PG,Purchase,Joint,"$1,001 - $15,000",Procter &amp; Gamble Company (The) Common Stock,10-15-2021,09-30-2021
+Tommy,Tuberville,NFLX,Purchase,Joint,"$1,001 - $15,000","Netflix, Inc. - Common Stock",10-15-2021,09-30-2021
+Tommy,Tuberville,MPWR,Purchase,Joint,"$1,001 - $15,000","Monolithic Power Systems, Inc. - Common Stock",10-15-2021,09-30-2021
+Tommy,Tuberville,KEYS,Purchase,Joint,"$1,001 - $15,000",Keysight Technologies Inc. Common Stock,10-15-2021,09-30-2021
+Tommy,Tuberville,KLAC,Purchase,Joint,"$1,001 - $15,000",KLA Corporation - Common Stock,10-15-2021,09-30-2021
+Tommy,Tuberville,JNJ,Purchase,Joint,"$1,001 - $15,000",Johnson &amp; Johnson Common Stock,10-15-2021,09-30-2021
+Tommy,Tuberville,INTU,Purchase,Joint,"$1,001 - $15,000",Intuit Inc. - Common Stock,10-15-2021,09-30-2021
+Tommy,Tuberville,GNRC,Purchase,Joint,"$1,001 - $15,000",Generac Holdlings Inc. Common Stock,10-15-2021,09-30-2021
+Tommy,Tuberville,EL,Purchase,Joint,"$1,001 - $15,000","Estee Lauder Companies, Inc. (The) Common Stock",10-15-2021,09-30-2021
+Tommy,Tuberville,EXP,Purchase,Joint,"$1,001 - $15,000",Eagle Materials Inc Common Stock,10-15-2021,09-30-2021
+Tommy,Tuberville,DEO,Purchase,Joint,"$1,001 - $15,000",Diageo plc Common Stock,10-15-2021,09-30-2021
+Tommy,Tuberville,CTAS,Purchase,Joint,"$1,001 - $15,000",Cintas Corporation - Common Stock,10-15-2021,09-30-2021
+Tommy,Tuberville,CABO,Purchase,Joint,"$1,001 - $15,000","Cable One, Inc. Common Stock",10-15-2021,09-30-2021
+Tommy,Tuberville,BKE,Purchase,Joint,"$1,001 - $15,000","Buckle, Inc. (The) Common Stock",10-15-2021,09-30-2021
+Tommy,Tuberville,ALLE,Purchase,Joint,"$1,001 - $15,000",Allegion plc Ordinary Shares,10-15-2021,09-30-2021
+Tommy,Tuberville,APD,Purchase,Joint,"$1,001 - $15,000","Air Products and Chemicals, Inc. Common Stock",10-15-2021,09-30-2021
+Tommy,Tuberville,WAL,Sale (Full),Joint,"$1,001 - $15,000",Western Alliance Bancorporation Common Stock (DE),10-15-2021,09-29-2021
+Tommy,Tuberville,MMM,Sale (Full),Joint,"$1,001 - $15,000",3M Company Common Stock,10-15-2021,09-29-2021
+Tommy,Tuberville,DECK,Sale (Full),Joint,"$1,001 - $15,000",Deckers Outdoor Corporation Common Stock,10-15-2021,09-29-2021
+Tommy,Tuberville,CLX,Sale (Full),Joint,"$1,001 - $15,000",Clorox Company (The) Common Stock,10-15-2021,09-29-2021
+Tommy,Tuberville,CHE,Sale (Full),Joint,"$1,001 - $15,000",Chemed Corp,10-15-2021,09-29-2021
+Tommy,Tuberville,BHP,Sale (Full),Joint,"$1,001 - $15,000",Bhp Group Plc,10-15-2021,09-29-2021
+Tommy,Tuberville,ATHM,Sale (Full),Joint,"$1,001 - $15,000","Autohome Inc. American Depositary Shares, each rep",10-15-2021,09-29-2021
+Tommy,Tuberville,AME,Sale (Full),Joint,"$1,001 - $15,000","AMETEK, Inc.",10-15-2021,09-29-2021
+Tommy,Tuberville,SSYS,Purchase,Joint,"$50,001 - $100,000","Stratasys, Ltd. - Common Stock",10-15-2021,09-20-2021
+Tommy,Tuberville,X,Sale (Full),Joint,"$15,001 - $50,000",United States Steel Corporation Common Stock Option Type: Call Strike price: $25.00  Expires: 06/17/2022,10-15-2021,09-20-2021
+Tommy,Tuberville,BABA,Sale (Full),Joint,"$1,001 - $15,000",Alibaba Group Holding Limited American Depositary Option Type: Short Sale Strike price: $230.00  Expires: 09/16/2022,10-15-2021,09-13-2021
+Tommy,Tuberville,BABA,Sale (Full),Joint,"$15,001 - $50,000",Alibaba Group Holding Limited American Depositary Option Type: Short Sale Strike price: $230.00  Expires: 09/16/2022,10-15-2021,09-13-2021
+Tommy,Tuberville,BABA,Sale (Full),Joint,"$15,001 - $50,000",Alibaba Group Holding Limited American Depositary Option Type: Short Sale Strike price: $230.00  Expires: 09/16/2022,10-15-2021,09-13-2021
+Tommy,Tuberville,BABA,Purchase,Joint,"$50,001 - $100,000",Alibaba Group Holding Limited American Depositary Option Type: Put Strike price: $230.00  Expires: 09/17/2021,10-15-2021,09-13-2021
+Tommy,Tuberville,ECOM,Purchase,Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Common Stock Option Type: Put Strike price: $25.00  Expires: 09/17/2021,10-15-2021,09-03-2021
+Tommy,Tuberville,CALX,Sale (Full),Joint,"$1,001 - $15,000","Calix, Inc Common Stock Option Type: Put Strike price: $40.00  Expires: 11/18/2022",09-08-2021,08-30-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Common Stock Option Type: Put Strike price: $25.00  Expires: 03/18/2022,09-08-2021,08-30-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Common Stock Option Type: Put Strike price: $25.00  Expires: 03/18/2022,09-08-2021,08-30-2021
+Tommy,Tuberville,CALX,Purchase,Joint,"$1,001 - $15,000","Calix, Inc Common Stock Option Type: Put Strike price: $40.00  Expires: 10/15/2021",09-08-2021,08-27-2021
+Tommy,Tuberville,SSYS,Purchase,Joint,"$1,001 - $15,000","Stratasys, Ltd. - Common Stock",09-08-2021,08-18-2021
+Tommy,Tuberville,SSBK,Purchase,Joint,"$50,001 - $100,000","Southern States Bancshares, Inc. - Common Stock",09-08-2021,08-12-2021
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$1,001 - $15,000",Intel Corporation - Common Stock Option Type: Put Strike price: $52.50  Expires: 06/17/2022,09-08-2021,08-10-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Common Stock Option Type: Call Strike price: $31.00  Expires: 02/18/2022,09-08-2021,08-02-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Common Stock Option Type: Put Strike price: $25.00  Expires: 02/18/2022,09-08-2021,08-02-2021
+Tommy,Tuberville,F,Sale (Full),Joint,"$15,001 - $50,000",Ford Motor Company Common Stock Option Type: Put Strike price: $15.00  Expires: 03/18/2022,08-13-2021,07-30-2021
+Tommy,Tuberville,AA,Purchase,Joint,"$1,001 - $15,000",Alcoa Corporation Common Stock Option Type: Put Strike price: $25.00  Expires: 10/15/2021,08-13-2021,07-29-2021
+Tommy,Tuberville,NVDA,Sale (Full),Joint,"$15,001 - $50,000",NVIDIA Corporation - Common Stock Option Type: Put Strike price: $180.00  Expires: 06/17/2022,08-13-2021,07-28-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $20.00  Expires: 01/21/2022,08-13-2021,07-21-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $20.00  Expires: 01/21/2022,08-13-2021,07-21-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Put Strike price: $20.00  Expires: 01/21/2022,08-13-2021,07-21-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $23.00  Expires: 01/21/2022,08-13-2021,07-21-2021
+Tommy,Tuberville,CLF,Purchase,Joint,"$100,001 - $250,000",Cleveland-Cliffs Inc. Common Stock,08-13-2021,07-21-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $20.00  Expires: 01/21/2022,08-13-2021,07-20-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Common Stock Option Type: Call Strike price: $20.00  Expires: 01/21/2022,08-13-2021,07-20-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$50,001 - $100,000",Cleveland-Cliffs Inc. Common Stock,08-13-2021,07-19-2021
+Tommy,Tuberville,AA,Sale (Full),Joint,"$50,001 - $100,000",Alcoa Corporation Common Stock,08-13-2021,07-19-2021
+Tommy,Tuberville,BABA,Sale (Full),Joint,"$15,001 - $50,000",Alibaba Group Holding Limited American Depositary Option Type: Put Strike price: $245.00  Expires: 01/21/2022,08-13-2021,07-14-2021
+Tommy,Tuberville,BABA,Purchase,Joint,"$15,001 - $50,000",Alibaba Group Holding Limited American Depositary Option Type: Put Strike price: $250.00  Expires: 07/16/2021,08-13-2021,07-14-2021
+Tommy,Tuberville,QQQ,Purchase,Joint,"$1,001 - $15,000","Invesco QQQ Trust, Series 1 Option Type: Put Strike price: $262.00  Expires: 09/17/2021",08-13-2021,07-06-2021
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$1,001 - $15,000",Intel Corporation - Common Stock Option Type: Put Strike price: $55.00  Expires: 01/21/2022,08-13-2021,07-01-2021
+Tommy,Tuberville,CRWD,Purchase,Joint,"$15,001 - $50,000","CrowdStrike Holdings, Inc. - Class A Common Stock",08-13-2021,07-16-2021
+Tommy,Tuberville,NWL,Purchase,Joint,"$15,001 - $50,000",Newell Brands Inc. - Common Stock,08-13-2021,07-16-2021
+Tommy,Tuberville,PEGA,Purchase,Joint,"$15,001 - $50,000",Pegasystems Inc. - Common Stock,08-13-2021,07-16-2021
+Tommy,Tuberville,PEP,Purchase,Joint,"$15,001 - $50,000","PepsiCo, Inc. - Common Stock",08-13-2021,07-16-2021
+Tommy,Tuberville,XLY,Purchase,Self,"$15,001 - $50,000",SPDR Select Sector Fund - Consumer Discretionary,08-13-2021,07-16-2021
+Tommy,Tuberville,MTUM,Purchase,Self,"$15,001 - $50,000",iShares MSCI USA Momentum Factor ETF,08-13-2021,07-16-2021
+Tommy,Tuberville,SQ,Purchase,Self,"$15,001 - $50,000","Square, Inc. Class A Common Stock",08-13-2021,07-16-2021
+Tommy,Tuberville,DTD,Purchase,Self,"$15,001 - $50,000",Wisdomtree U.S. Total Dividend Fund,08-13-2021,07-16-2021
+Tommy,Tuberville,ALGN,Purchase,Joint,"$1,001 - $15,000","Align Technology, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$1,001 - $15,000",Intel Corporation Option Type: Put Strike price: $60.00  Expires: 10/15/2021,07-23-2021,04-05-2021
+Tommy,Tuberville,BABA,Sale (Full),Joint,"$15,001 - $50,000",Alibaba Group Holding Limited Option Type: Put Strike price: $230.00  Expires: 09/17/2021,07-23-2021,01-25-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Option Type: Put Strike price: $15.00  Expires: 07/16/2021,07-23-2021,01-21-2021
+Tommy,Tuberville,CLF,Purchase,Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc.,07-23-2021,01-21-2021
+Tommy,Tuberville,SDOG,Purchase,Joint,"$15,001 - $50,000",ALPS Sector Dividend Dogs ETF,07-23-2021,01-15-2021
+Tommy,Tuberville,QQQ,Sale (Full),Joint,"$15,001 - $50,000",Invesco QQQ Trust Option Type: Put Strike price: $262.00  Expires: 09/17/2021,07-23-2021,01-13-2021
+Tommy,Tuberville,TDY,Sale (Full),Joint,"$50,001 - $100,000",Teledyne Technologies Incorporated,07-23-2021,01-13-2021
+Tommy,Tuberville,AA,Sale (Full),Joint,"$1,001 - $15,000",Alcoa Corporation Option Type: Put Strike price: $22.00  Expires: 01/21/2022,07-23-2021,01-06-2021
+Tommy,Tuberville,AA,Sale (Full),Joint,"$1,001 - $15,000",Alcoa Corporation Option Type: Put Strike price: $22.00  Expires: 01/21/2021,07-23-2021,01-06-2021
+Tommy,Tuberville,AA,Sale (Full),Joint,"$1,001 - $15,000",Alcoa Corporation Option Type: Call Strike price: $26.00  Expires: 07/16/2021,07-23-2021,01-06-2021
+Tommy,Tuberville,AA,Purchase,Joint,"$15,001 - $50,000",Alcoa Corporation,07-23-2021,01-06-2021
+Tommy,Tuberville,AA,Purchase,Joint,"$15,001 - $50,000",Alcoa Corporation,07-23-2021,01-06-2021
+Tommy,Tuberville,FB,Sale (Full),Joint,"$1,001 - $15,000","Facebook, Inc. Option Type: Put Strike price: $225.00  Expires: 07/16/2021",07-23-2021,01-05-2021
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$1,001 - $15,000",Intel Corporation Option Type: Put Strike price: $50.00  Expires: 07/16/2021,07-23-2021,01-04-2021
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$1,001 - $15,000",Intel Corporation Option Type: Put Strike price: $50.00  Expires: 07/16/2021,07-23-2021,01-04-2021
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$1,001 - $15,000",Intel Corporation Option Type: Put Strike price: $50.00  Expires: 07/16/2021,07-23-2021,01-04-2021
+Tommy,Tuberville,INTC,Sale (Full),Joint,"$1,001 - $15,000",Intel Corporation Option Type: Put Strike price: $50.00  Expires: 07/16/2021,07-23-2021,01-04-2021
+Tommy,Tuberville,WY,Sale (Full),Joint,"$50,001 - $100,000",Weyerhaeuser Company,07-23-2021,01-04-2021
+Tommy,Tuberville,ONEQ,Sale (Full),Joint,"$100,001 - $250,000",Fidelity Nasdaq Composite Index ETF,07-23-2021,01-04-2021
+Tommy,Tuberville,DG,Sale (Full),Joint,"$50,001 - $100,000",Dollar General Corporation,07-23-2021,01-04-2021
+Tommy,Tuberville,ADBE,Sale (Full),Joint,"$1,001 - $15,000",Adobe Inc. Option Type: Put Strike price: $405.00  Expires: 06/18/2021,07-23-2021,02-19-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Option Type: Put Strike price: $25.00  Expires: 08/20/2021,07-23-2021,02-16-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Option Type: Call Strike price: $30.00  Expires: 08/20/2021,07-23-2021,02-16-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Option Type: Call Strike price: $30.00  Expires: 08/20/2021,07-23-2021,02-16-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Option Type: Call Strike price: $30.00  Expires: 08/20/2021,07-23-2021,02-16-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Option Type: Call Strike price: $30.00  Expires: 08/20/2021,07-23-2021,02-16-2021
+Tommy,Tuberville,OXY,Purchase,Joint,"$15,001 - $50,000",Occidental Petroleum Corporation,07-23-2021,02-16-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Option Type: Call Strike price: $30.00  Expires: 09/17/2021,07-23-2021,02-11-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Option Type: Put Strike price: $25.00  Expires: 09/17/2021,07-23-2021,02-10-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Option Type: Put Strike price: $25.00  Expires: 09/17/2021,07-23-2021,02-10-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Option Type: Put Strike price: $25.00  Expires: 09/17/2021,07-23-2021,02-10-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Option Type: Put Strike price: $25.00  Expires: 09/17/2021,07-23-2021,02-10-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Option Type: Call Strike price: $30.00  Expires: 09/17/2021,07-23-2021,02-10-2021
+Tommy,Tuberville,ECOM,Purchase,Joint,"$1,001 - $15,000",ChannelAdvisor Corporation,07-23-2021,02-10-2021
+Tommy,Tuberville,ECOM,Purchase,Joint,"$15,001 - $50,000",ChannelAdvisor Corporation,07-23-2021,02-10-2021
+Tommy,Tuberville,ECOM,Purchase,Joint,"$15,001 - $50,000",ChannelAdvisor Corporation,07-23-2021,02-10-2021
+Tommy,Tuberville,VEEV,Purchase,Joint,"$1,001 - $15,000",Veeva Systems Inc. Option Type: Put Strike price: $240.00  Expires: 03/19/2021,07-23-2021,02-09-2021
+Tommy,Tuberville,F,Sale (Full),Joint,"$1,001 - $15,000",Ford Motor Company Option Type: Put Strike price: $11.00  Expires: 09/17/2021,07-23-2021,02-08-2021
+Tommy,Tuberville,SSYS,Sale (Full),Joint,"$1,001 - $15,000",Stratasys Ltd. Option Type: Put Strike price: $45.00  Expires: 09/17/2021,07-23-2021,02-04-2021
+Tommy,Tuberville,SSYS,Sale (Full),Joint,"$1,001 - $15,000",Stratasys Ltd. Option Type: Put Strike price: $45.00  Expires: 09/17/2021,07-23-2021,02-04-2021
+Tommy,Tuberville,MSFT,Purchase,Joint,"$1,001 - $15,000",Microsoft Corporation Option Type: Put Strike price: $185.00  Expires: 04/16/2021,07-23-2021,02-03-2021
+Tommy,Tuberville,BRK-B,Purchase,Joint,"$50,001 - $100,000",Berkshire Hathaway Inc.,07-23-2021,02-03-2021
+Tommy,Tuberville,CSX,Sale (Full),Joint,"$1,001 - $15,000",CSX Corporation Option Type: Put Strike price: $80.00  Expires: 08/20/2021,07-23-2021,02-02-2021
+Tommy,Tuberville,WST,Purchase,Joint,"$1,001 - $15,000","West Pharmaceutical Services, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,WAL,Purchase,Joint,"$1,001 - $15,000",Western Alliance Bancorporation,07-23-2021,03-29-2021
+Tommy,Tuberville,WAT,Purchase,Joint,"$1,001 - $15,000",Waters Corporation,07-23-2021,03-29-2021
+Tommy,Tuberville,VMW,Purchase,Joint,"$1,001 - $15,000","VMware, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,MMM,Purchase,Joint,"$1,001 - $15,000",3M Company,07-23-2021,03-29-2021
+Tommy,Tuberville,TER,Purchase,Joint,"$1,001 - $15,000","Teradyne, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,SNA,Purchase,Joint,"$1,001 - $15,000",Snap-on Incorporated,07-23-2021,03-29-2021
+Tommy,Tuberville,SIVB,Purchase,Joint,"$1,001 - $15,000",SVB Financial Group,07-23-2021,03-29-2021
+Tommy,Tuberville,SWKS,Purchase,Joint,"$1,001 - $15,000","Skyworks Solutions, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,SEIC,Purchase,Joint,"$1,001 - $15,000",SEI Investments Company,07-23-2021,03-29-2021
+Tommy,Tuberville,ROK,Purchase,Joint,"$1,001 - $15,000","Rockwell Automation, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,REGN,Purchase,Joint,"$1,001 - $15,000","Regeneron Pharmaceuticals, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,DGX,Purchase,Joint,"$1,001 - $15,000",Quest Diagnostics Incorporated,07-23-2021,03-29-2021
+Tommy,Tuberville,QCOM,Purchase,Joint,"$1,001 - $15,000",QUALCOMM Incorporated,07-23-2021,03-29-2021
+Tommy,Tuberville,PYPL,Purchase,Joint,"$1,001 - $15,000","PayPal Holdings, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,ODFL,Purchase,Joint,"$1,001 - $15,000","Old Dominion Freight Line, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,NDSN,Sale (Full),Joint,"$1,001 - $15,000",Nordson Corporation,07-23-2021,03-29-2021
+Tommy,Tuberville,NTES,Sale (Full),Joint,"$1,001 - $15,000","NetEase, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,MRK,Sale (Full),Joint,"$1,001 - $15,000","Merck &amp; Co., Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,JNJ,Sale (Full),Joint,"$1,001 - $15,000",Johnson &amp; Johnson,07-23-2021,03-29-2021
+Tommy,Tuberville,INTU,Sale (Full),Joint,"$1,001 - $15,000",Intuit Inc.,07-23-2021,03-29-2021
+Tommy,Tuberville,IDXX,Purchase,Joint,"$1,001 - $15,000","IDEXX Laboratories, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,IEX,Purchase,Joint,"$1,001 - $15,000",IDEX Corporation,07-23-2021,03-29-2021
+Tommy,Tuberville,IEX,Purchase,Joint,"$1,001 - $15,000",IDEX Corporation,07-23-2021,03-29-2021
+Tommy,Tuberville,HON,Sale (Full),Joint,"$1,001 - $15,000",Honeywell International Inc.,07-23-2021,03-29-2021
+Tommy,Tuberville,HSY,Purchase,Joint,"$1,001 - $15,000",The Hershey Company,07-23-2021,03-29-2021
+Tommy,Tuberville,GGG,Purchase,Joint,"$1,001 - $15,000",Graco Inc.,07-23-2021,03-29-2021
+Tommy,Tuberville,GNTX,Purchase,Joint,"$1,001 - $15,000",Gentex Corporation,07-23-2021,03-29-2021
+Tommy,Tuberville,FTNT,Sale (Full),Joint,"$1,001 - $15,000","Fortinet, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,EA,Sale (Full),Joint,"$1,001 - $15,000",Electronic Arts Inc.,07-23-2021,03-29-2021
+Tommy,Tuberville,EBAY,Sale (Full),Joint,"$1,001 - $15,000",eBay Inc.,07-23-2021,03-29-2021
+Tommy,Tuberville,EW,Purchase,Joint,"$1,001 - $15,000",Edwards Lifesciences Corporation,07-23-2021,03-29-2021
+Tommy,Tuberville,DECK,Purchase,Joint,"$1,001 - $15,000",Deckers Outdoor Corporation,07-23-2021,03-29-2021
+Tommy,Tuberville,CNR,Purchase,Joint,"$1,001 - $15,000","Cornerstone Building Brands, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,CL,Sale (Full),Joint,"$1,001 - $15,000",Colgate-Palmolive Company,07-23-2021,03-29-2021
+Tommy,Tuberville,CLX,Purchase,Joint,"$1,001 - $15,000",The Clorox Company,07-23-2021,03-29-2021
+Tommy,Tuberville,CHE,Purchase,Joint,"$1,001 - $15,000",Chemed Corporation,07-23-2021,03-29-2021
+Tommy,Tuberville,CE,Purchase,Joint,"$1,001 - $15,000",Celanese Corporation,07-23-2021,03-29-2021
+Tommy,Tuberville,BIO,Purchase,Joint,"$1,001 - $15,000","Bio-Rad Laboratories, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,BHP,Purchase,Joint,"$1,001 - $15,000",BHP Group,07-23-2021,03-29-2021
+Tommy,Tuberville,ATHM,Purchase,Joint,"$1,001 - $15,000",Autohome Inc.,07-23-2021,03-29-2021
+Tommy,Tuberville,AME,Purchase,Joint,"$1,001 - $15,000","AMETEK, Inc.",07-23-2021,03-29-2021
+Tommy,Tuberville,GOOGL,Purchase,Joint,"$1,001 - $15,000",Alphabet Inc.,07-23-2021,03-29-2021
+Tommy,Tuberville,AA,Sale (Full),Joint,"$15,001 - $50,000",Alcoa Corporation Option Type: Put Strike price: $25.00  Expires: 10/15/2021,07-23-2021,03-16-2021
+Tommy,Tuberville,AA,Sale (Full),Joint,"$15,001 - $50,000",Alcoa Corporation Option Type: Call Strike price: $26.00  Expires: 10/15/2021,07-23-2021,03-16-2021
+Tommy,Tuberville,AA,Purchase,Joint,"$1,001 - $15,000",Alcoa Corporation,07-23-2021,03-16-2021
+Tommy,Tuberville,AA,Purchase,Joint,"$100,001 - $250,000",Alcoa Corporation,07-23-2021,03-16-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Option Type: Put Strike price: $16.00  Expires: 07/16/2021,07-23-2021,03-12-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$1,001 - $15,000",Cleveland-Cliffs Inc. Option Type: Call Strike price: $20.00  Expires: 07/16/2021,07-23-2021,03-12-2021
+Tommy,Tuberville,CLF,Purchase,Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc.,07-23-2021,03-12-2021
+Tommy,Tuberville,ADP,Sale (Full),Joint,"$1,001 - $15,000","Automatic Data Processing, Inc. Option Type: Put Strike price: $175.00  Expires: 08/20/2021",07-23-2021,03-11-2021
+Tommy,Tuberville,CALX,Sale (Full),Joint,"$1,001 - $15,000","Calix, Inc. Option Type: Put Strike price: $40.00  Expires: 01/21/2022",07-23-2021,04-27-2021
+Tommy,Tuberville,CALX,Sale (Full),Joint,"$1,001 - $15,000","Calix, Inc. Option Type: Put Strike price: $40.00  Expires: 01/21/2022",07-23-2021,04-27-2021
+Tommy,Tuberville,CALX,Sale (Full),Joint,"$1,001 - $15,000","Calix, Inc. Option Type: Put Strike price: $40.00  Expires: 01/21/2022",07-23-2021,04-27-2021
+Tommy,Tuberville,QQQ,Sale (Full),Joint,"$1,001 - $15,000",Invesco QQQ Trust Option Type: Put Strike price: $285.00  Expires: 03/18/2022,07-23-2021,04-26-2021
+Tommy,Tuberville,CSX,Purchase,Joint,"$1,001 - $15,000",CSX Corporation Option Type: Put Strike price: $80.00  Expires: 08/20/2021,07-23-2021,04-21-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Option Type: Call Strike price: $30.00  Expires: 12/17/2021,07-23-2021,04-21-2021
+Tommy,Tuberville,MSFT,Purchase,Joint,"$1,001 - $15,000",Microsoft Corporation Option Type: Put Strike price: $205.00  Expires: 07/16/2021,07-23-2021,04-20-2021
+Tommy,Tuberville,FB,Purchase,Joint,"$1,001 - $15,000","Facebook, Inc. Option Type: Put Strike price: $225.00  Expires: 07/16/2021",07-23-2021,04-20-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Option Type: Put Strike price: $25.00  Expires: 09/17/2021,07-23-2021,04-19-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc. Option Type: Put Strike price: $17.00  Expires: 01/21/2022,07-23-2021,04-19-2021
+Tommy,Tuberville,CLF,Sale (Full),Joint,"$15,001 - $50,000",Cleveland-Cliffs Inc. Option Type: Call Strike price: $20.00  Expires: 01/21/2022,07-23-2021,04-19-2021
+Tommy,Tuberville,CLF,Purchase,Joint,"$50,001 - $100,000",Cleveland-Cliffs Inc.,07-23-2021,04-19-2021
+Tommy,Tuberville,AA,Sale (Full),Joint,"$50,001 - $100,000",Alcoa Corporation,07-23-2021,04-19-2021
+Tommy,Tuberville,ECOM,Sale (Full),Joint,"$1,001 - $15,000",ChannelAdvisor Corporation Option Type: Call Strike price: $30.00  Expires: 12/17/2021,07-23-2021,04-16-2021
+Tommy,Tuberville,ECOM,Purchase,Joint,"$15,001 - $50,000",ChannelAdvisor Corporation,07-23-2021,04-16-2021
+Tommy,Tuberville,ADBE,Sale (Full),Joint,"$1,001 - $15,000",Adobe Inc. Option Type: Put Strike price: $400.00  Expires: 01/21/2022,07-23-2021,04-14-2021
+Tommy,Tuberville,FCX,Sale (Full),Joint,"$15,001 - $50,000",Freeport-McMoRan Inc.,07-23-2021,04-14-2021
+Tommy,Tuberville,SSYS,Sale (Full),Joint,"$1,001 - $15,000",Stratasys Ltd. Option Type: Put Strike price: $22.50  Expires: 01/21/2022,07-23-2021,04-12-2021
+Tommy,Tuberville,CALX,Sale (Full),Joint,"$1,001 - $15,000","Calix, Inc. Option Type: Put Strike price: $40.00  Expires: 01/21/2022",07-23-2021,04-08-2021
+Tommy,Tuberville,CALX,Sale (Full),Joint,"$1,001 - $15,000","Calix, Inc. Option Type: Put Strike price: $40.00  Expires: 10/15/2021",07-23-2021,04-07-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Option Type: Put Strike price: $25.00  Expires: 11/19/2021,07-23-2021,04-07-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Option Type: Call Strike price: $29.00  Expires: 11/19/2021,07-23-2021,04-07-2021
+Tommy,Tuberville,OXY,Sale (Full),Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Option Type: Call Strike price: $29.00  Expires: 11/19/2021,07-23-2021,04-07-2021
+Tommy,Tuberville,OXY,Purchase,Joint,"$50,001 - $100,000",Occidental Petroleum Corporation,07-23-2021,04-07-2021
+Tommy,Tuberville,INTC,Purchase,Joint,"$1,001 - $15,000",Intel Corporation Option Type: Put Strike price: $50.00  Expires: 07/16/2021,07-23-2021,04-05-2021
+Tommy,Tuberville,EA,Purchase,Joint,"$1,001 - $15,000",Electronic Arts Inc. Option Type: Put Strike price: $115.00  Expires: 06/18/2021,07-23-2021,04-05-2021
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. Option Type: Put Strike price: $220.00  Expires: 06/17/2022",07-23-2021,04-01-2021
+Tommy,Tuberville,PYPL,Sale (Full),Joint,"$1,001 - $15,000","PayPal Holdings, Inc. Option Type: Put Strike price: $220.00  Expires: 06/17/2022",07-23-2021,04-01-2021
+Tommy,Tuberville,FCX,Sale (Full),Joint,"$1,001 - $15,000",Freeport-McMoRan Inc.,07-23-2021,05-24-2021
+Tommy,Tuberville,FDSWX,Sale (Full),Joint,"$1,001 - $15,000",AIG Focused Dividend Strategy Fund Class W,07-23-2021,05-18-2021
+Tommy,Tuberville,FCX,Sale (Full),Joint,"$1,001 - $15,000",Freeport-McMoRan Inc.,07-23-2021,05-10-2021
+Tommy,Tuberville,X,Sale (Full),Joint,"$15,001 - $50,000",United States Steel Corporation Option Type: Put Strike price: $24.00  Expires: 10/15/2021,07-23-2021,05-06-2021
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Option Type: Call Strike price: $29.00  Expires: 10/15/2021,07-23-2021,05-06-2021
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Option Type: Call Strike price: $29.00  Expires: 10/15/2021,07-23-2021,05-06-2021
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Option Type: Call Strike price: $29.00  Expires: 10/15/2021,07-23-2021,05-06-2021
+Tommy,Tuberville,X,Sale (Full),Joint,"$1,001 - $15,000",United States Steel Corporation Option Type: Call Strike price: $29.00  Expires: 10/15/2021,07-23-2021,05-06-2021
+Tommy,Tuberville,X,Purchase,Joint,"$100,001 - $250,000",United States Steel Corporation,07-23-2021,05-06-2021
+Tommy,Tuberville,ADP,Purchase,Joint,"$1,001 - $15,000","Automatic Data Processing, Inc. Option Type: Put Strike price: $175.00  Expires: 08/20/2021",07-16-2021,06-30-2021
+Tommy,Tuberville,OXY,Purchase,Joint,"$1,001 - $15,000",Occidental Petroleum Corporation Option Type: Put Strike price: $25.00  Expires: 08/20/2021,07-16-2021,06-25-2021
+Tommy,Tuberville,MSFT,Sale (Full),Joint,"$1,001 - $15,000",Microsoft Corporation Option Type: Put Strike price: $210.00  Expires: 03/18/2022,07-16-2021,06-23-2021
+Tommy,Tuberville,AAPL,Sale (Full),Joint,"$1,001 - $15,000",Apple Inc. Option Type: Put Strike price: $102.50  Expires: 06/17/2022,07-16-2021,06-23-2021
+Tommy,Tuberville,QCOM,Sale (Full),Joint,"$15,001 - $50,000",QUALCOMM Incorporated Option Type: Put Strike price: $130.00  Expires: 06/17/2022,07-16-2021,06-01-2021
+Ron,Wyden,N/A,N/A,N/A,Unknown,This filing was disclosed via scanned PDF. Use link in ptr_link column to view the PDF.,07-12-2021,07-12-2021
+Ron,Wyden,AMAT,Sale (Full),Spouse,"$50,001 - $100,000","Applied Materials, Inc.",04-30-2021,04-16-2021
+Ron,Wyden,KLAC,Sale (Full),Spouse,"$50,001 - $100,000",KLA Corporation,04-30-2021,04-16-2021
+Ron,Wyden,MTCH,Purchase,Spouse,"$15,001 - $50,000","Match Group, Inc.",04-30-2021,04-01-2021
+Ron,Wyden,AMAT,Sale (Partial),Spouse,"$100,001 - $250,000","Applied Materials, Inc.",04-09-2021,04-06-2021
+Ron,Wyden,KLAC,Sale (Partial),Spouse,"$100,001 - $250,000",KLA Corporation,04-09-2021,04-06-2021
+Ron,Wyden,STZ,Sale (Full),Spouse,"$100,001 - $250,000","Constellation Brands, Inc.",04-09-2021,04-06-2021
+Ron,Wyden,AVGO,Sale (Full),Spouse,"$100,001 - $250,000",Broadcom Inc.,04-09-2021,04-06-2021
+Ron,Wyden,INTC,Sale (Full),Spouse,"$15,001 - $50,000",Intel Corporation,04-09-2021,04-06-2021
+Ron,Wyden,KLAC,Sale (Full),Child,"$1,001 - $15,000",KLA Corporation,04-09-2021,04-06-2021
+Ron,Wyden,KLAC,Sale (Full),Child,"$1,001 - $15,000",KLA Corporation,04-09-2021,04-06-2021
+Ron,Wyden,KLAC,Sale (Full),Child,"$1,001 - $15,000",KLA Corporation,04-09-2021,04-06-2021
+Ron,Wyden,STX,Purchase,Spouse,"$1,001 - $15,000",Seagate Technology plc,03-23-2021,02-26-2021
+Ron,Wyden,AMAT,Purchase,Spouse,"$1,001 - $15,000","Applied Materials, Inc.",03-23-2021,02-26-2021
+Ron,Wyden,KLAC,Purchase,Spouse,"$1,001 - $15,000",KLA Corporation,03-23-2021,02-26-2021
+Ron,Wyden,AAPL,Purchase,Child,"$1,001 - $15,000",Apple Inc.,02-18-2021,01-20-2021
+Ron,Wyden,AAPL,Purchase,Child,"$1,001 - $15,000",Apple Inc.,02-18-2021,01-20-2021
+Ron,Wyden,AAPL,Purchase,Child,"$1,001 - $15,000",Apple Inc.,02-18-2021,01-20-2021
+Ron,Wyden,AAPL,Purchase,Child,"$1,001 - $15,000",Apple Inc.,02-18-2021,01-27-2021
+Ron,Wyden,DIS,Purchase,Child,"$1,001 - $15,000",The Walt Disney Company,02-18-2021,01-27-2021
+Ron,Wyden,KLAC,Purchase,Child,"$1,001 - $15,000",KLA Corporation,02-18-2021,01-27-2021
+Ron,Wyden,AAPL,Purchase,Child,"$1,001 - $15,000",Apple Inc.,02-18-2021,01-27-2021
+Ron,Wyden,DIS,Purchase,Child,"$1,001 - $15,000",The Walt Disney Company,02-18-2021,01-27-2021
+Ron,Wyden,KLAC,Purchase,Child,"$1,001 - $15,000",KLA Corporation,02-18-2021,01-27-2021
+Ron,Wyden,AAPL,Purchase,Child,"$1,001 - $15,000",Apple Inc.,02-18-2021,01-27-2021
+Ron,Wyden,DIS,Purchase,Child,"$1,001 - $15,000",The Walt Disney Company,02-18-2021,01-27-2021
+Ron,Wyden,KLAC,Purchase,Child,"$1,001 - $15,000",KLA Corporation,02-18-2021,01-27-2021
+Ron,Wyden,BYND,Sale (Full),Spouse,"$50,001 - $100,000","Beyond Meat, Inc.",12-04-2020,11-10-2020
+Ron,Wyden,NVDA,Purchase,Child,"$1,001 - $15,000",NVIDIA Corporation,11-16-2020,10-16-2020
+Ron,Wyden,WDAY,Purchase,Child,"$1,001 - $15,000","Workday, Inc.",11-16-2020,10-16-2020
+Ron,Wyden,NVDA,Purchase,Child,"$1,001 - $15,000",NVIDIA Corporation,11-16-2020,10-16-2020
+Ron,Wyden,WDAY,Purchase,Child,"$1,001 - $15,000","Workday, Inc.",11-16-2020,10-16-2020
+Ron,Wyden,NVDA,Purchase,Child,"$1,001 - $15,000",NVIDIA Corporation,11-16-2020,10-16-2020
+Ron,Wyden,WDAY,Purchase,Child,"$1,001 - $15,000","Workday, Inc.",11-16-2020,10-16-2020
+Ron,Wyden,NFLX,Sale (Full),Child,"$1,001 - $15,000","Netflix, Inc.",10-09-2020,09-14-2020
+Ron,Wyden,NFLX,Sale (Full),Child,"$1,001 - $15,000","Netflix, Inc.",10-09-2020,09-14-2020
+Ron,Wyden,NFLX,Sale (Full),Child,"$1,001 - $15,000","Netflix, Inc.",10-09-2020,09-23-2020
+Ron,Wyden,W,Sale (Full),Spouse,"$50,001 - $100,000",Wayfair Inc.,09-24-2020,09-02-2020
+Ron,Wyden,AAPL,Purchase,Spouse,"$50,001 - $100,000",Apple Inc.,09-24-2020,09-02-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$15,001 - $50,000","Amazon.com, Inc.",09-24-2020,09-01-2020
+Ron,Wyden,AAPL,Purchase,Spouse,"$50,001 - $100,000",Apple Inc.,09-24-2020,08-27-2020
+Ron,Wyden,AMWD,Sale (Full),Spouse,"$1,001 - $15,000",American Woodmark Corporation,09-24-2020,08-27-2020
+Ron,Wyden,IRBT,Purchase,Spouse,"$1,001 - $15,000",iRobot Corporation,09-24-2020,08-26-2020
+Ron,Wyden,UPS,Purchase,Spouse,"$50,001 - $100,000","United Parcel Service, Inc.",09-24-2020,08-25-2020
+Ron,Wyden,FDX,Purchase,Spouse,"$15,001 - $50,000",FedEx Corporation,09-24-2020,08-25-2020
+Ron,Wyden,W,Purchase,Spouse,"$50,001 - $100,000",Wayfair Inc.,09-24-2020,08-24-2020
+Ron,Wyden,SQ,Purchase,Spouse,"$15,001 - $50,000","Square, Inc.",09-24-2020,08-24-2020
+Ron,Wyden,KR,Sale (Full),Spouse,"$50,001 - $100,000",The Kroger Co.,09-24-2020,08-24-2020
+Ron,Wyden,CLX,Sale (Full),Spouse,"$1,001 - $15,000",The Clorox Company,09-24-2020,08-24-2020
+Ron,Wyden,AMWD,Purchase,Spouse,"$1,001 - $15,000",American Woodmark Corporation,09-24-2020,08-24-2020
+Ron,Wyden,NFLX,Purchase,Child,"$1,001 - $15,000","Netflix, Inc.",08-29-2020,08-20-2020
+Ron,Wyden,NFLX,Purchase,Child,"$1,001 - $15,000","Netflix, Inc.",08-29-2020,08-20-2020
+Ron,Wyden,NFLX,Purchase,Child,"$1,001 - $15,000","Netflix, Inc.",08-29-2020,08-20-2020
+Ron,Wyden,NVDA,Purchase,Spouse,"$50,001 - $100,000",NVIDIA Corporation,08-29-2020,08-21-2020
+Ron,Wyden,UPS,Purchase,Spouse,"$50,001 - $100,000","United Parcel Service, Inc.",08-29-2020,08-21-2020
+Ron,Wyden,FDX,Purchase,Spouse,"$15,001 - $50,000",FedEx Corporation,08-29-2020,08-21-2020
+Ron,Wyden,SQ,Purchase,Spouse,"$15,001 - $50,000","Square, Inc.",08-29-2020,08-21-2020
+Ron,Wyden,T,Sale (Full),Spouse,"$50,001 - $100,000",AT&amp;T Inc.,08-29-2020,08-21-2020
+Ron,Wyden,XOM,Sale (Full),Spouse,"$15,001 - $50,000",Exxon Mobil Corporation,08-29-2020,08-21-2020
+Ron,Wyden,UPS,Purchase,Spouse,"$50,001 - $100,000","United Parcel Service, Inc.",08-29-2020,08-19-2020
+Ron,Wyden,NVDA,Purchase,Spouse,"$15,001 - $50,000",NVIDIA Corporation,08-29-2020,08-19-2020
+Ron,Wyden,KR,Purchase,Spouse,"$15,001 - $50,000",The Kroger Co.,08-29-2020,08-19-2020
+Ron,Wyden,FDX,Purchase,Spouse,"$15,001 - $50,000",FedEx Corporation,08-29-2020,08-19-2020
+Ron,Wyden,LOW,Purchase,Spouse,"$15,001 - $50,000","Lowe's Companies, Inc.",08-29-2020,08-18-2020
+Ron,Wyden,DHI,Purchase,Spouse,"$15,001 - $50,000","D.R. Horton, Inc.",08-29-2020,08-18-2020
+Ron,Wyden,UPS,Purchase,Spouse,"$50,001 - $100,000","United Parcel Service, Inc.",08-29-2020,08-17-2020
+Ron,Wyden,UPS,Purchase,Spouse,"$15,001 - $50,000","United Parcel Service, Inc.",08-29-2020,08-14-2020
+Ron,Wyden,PSA,Purchase,Spouse,"$15,001 - $50,000",Public Storage,08-29-2020,08-14-2020
+Ron,Wyden,FDX,Purchase,Spouse,"$15,001 - $50,000",FedEx Corporation,08-29-2020,08-14-2020
+Ron,Wyden,F,Purchase,Spouse,"$15,001 - $50,000",Ford Motor Company,08-29-2020,08-11-2020
+Ron,Wyden,DHI,Purchase,Spouse,"$50,001 - $100,000","D.R. Horton, Inc.",08-29-2020,08-11-2020
+Ron,Wyden,AAPL,Purchase,Spouse,"$50,001 - $100,000",Apple Inc.,08-29-2020,08-07-2020
+Ron,Wyden,WDAY,Purchase,Spouse,"$1,001 - $15,000","Workday, Inc.",08-29-2020,08-05-2020
+Ron,Wyden,PSA,Purchase,Spouse,"$15,001 - $50,000",Public Storage,08-29-2020,08-05-2020
+Ron,Wyden,KR,Purchase,Spouse,"$1,001 - $15,000",The Kroger Co.,08-29-2020,08-05-2020
+Ron,Wyden,DHI,Purchase,Spouse,"$1,001 - $15,000","D.R. Horton, Inc.",08-29-2020,08-05-2020
+Ron,Wyden,COUP,Purchase,Spouse,"$15,001 - $50,000",Coupa Software Incorporated,08-29-2020,08-05-2020
+Ron,Wyden,CLX,Purchase,Spouse,"$1,001 - $15,000",The Clorox Company,08-29-2020,08-05-2020
+Ron,Wyden,BYND,Purchase,Spouse,"$15,001 - $50,000","Beyond Meat, Inc.",08-29-2020,08-05-2020
+Ron,Wyden,PSA,Purchase,Spouse,"$50,001 - $100,000",Public Storage,08-29-2020,08-04-2020
+Ron,Wyden,MTCH,Purchase,Spouse,"$1,001 - $15,000","Match Group, Inc.",08-29-2020,08-04-2020
+Ron,Wyden,KR,Purchase,Spouse,"$1,001 - $15,000",The Kroger Co.,08-29-2020,08-04-2020
+Ron,Wyden,KLAC,Purchase,Spouse,"$15,001 - $50,000",KLA Corporation,08-29-2020,08-04-2020
+Ron,Wyden,DIS,Purchase,Spouse,"$15,001 - $50,000",The Walt Disney Company,08-29-2020,08-04-2020
+Ron,Wyden,MAR,Sale (Full),Spouse,"$100,001 - $250,000","Marriott International, Inc.",08-29-2020,08-03-2020
+Ron,Wyden,VAC,Sale (Full),Spouse,"$15,001 - $50,000",Marriott Vacations Worldwide Corporation,08-29-2020,08-03-2020
+Ron,Wyden,INTC,Sale (Full),Spouse,"$15,001 - $50,000",Intel Corporation,08-29-2020,08-03-2020
+Ron,Wyden,MSFT,Purchase,Spouse,"$50,001 - $100,000",Microsoft Corporation,08-29-2020,07-31-2020
+Ron,Wyden,OSK,Purchase,Spouse,"$15,001 - $50,000",Oshkosh Corporation,08-29-2020,07-30-2020
+Ron,Wyden,NVDA,Purchase,Spouse,"$50,001 - $100,000",NVIDIA Corporation,08-29-2020,07-30-2020
+Ron,Wyden,BYND,Purchase,Spouse,"$15,001 - $50,000","Beyond Meat, Inc.",08-29-2020,07-30-2020
+Ron,Wyden,STX,Purchase,Spouse,"$15,001 - $50,000",Seagate Technology plc,07-31-2020,07-02-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$15,001 - $50,000","Amazon.com, Inc.",07-31-2020,07-02-2020
+Ron,Wyden,STX,Purchase,Spouse,"$50,001 - $100,000",Seagate Technology plc,07-31-2020,07-06-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$15,001 - $50,000","Amazon.com, Inc.",07-31-2020,07-06-2020
+Ron,Wyden,AAPL,Purchase,Spouse,"$50,001 - $100,000",Apple Inc.,07-31-2020,07-06-2020
+Ron,Wyden,KLAC,Purchase,Spouse,"$15,001 - $50,000",KLA Corporation,07-31-2020,07-06-2020
+Ron,Wyden,MSFT,Purchase,Spouse,"$15,001 - $50,000",Microsoft Corporation,07-31-2020,07-06-2020
+Ron,Wyden,NVDA,Purchase,Spouse,"$15,001 - $50,000",NVIDIA Corporation,07-31-2020,07-06-2020
+Ron,Wyden,TRIP,Sale (Full),Spouse,"$50,001 - $100,000","TripAdvisor, Inc.",07-31-2020,07-07-2020
+Ron,Wyden,AAPL,Purchase,Spouse,"$15,001 - $50,000",Apple Inc.,07-31-2020,07-13-2020
+Ron,Wyden,CAT,Sale (Full),Spouse,"$50,001 - $100,000",Caterpillar Inc.,07-31-2020,07-13-2020
+Ron,Wyden,COST,Purchase,Spouse,"$15,001 - $50,000",Costco Wholesale Corporation,07-31-2020,07-13-2020
+Ron,Wyden,F,Purchase,Spouse,"$1,001 - $15,000",Ford Motor Company,07-31-2020,07-13-2020
+Ron,Wyden,OSK,Purchase,Spouse,"$50,001 - $100,000",Oshkosh Corporation,07-31-2020,07-13-2020
+Ron,Wyden,AAPL,Purchase,Spouse,"$15,001 - $50,000",Apple Inc.,07-31-2020,07-15-2020
+Ron,Wyden,AAPL,Purchase,Spouse,"$15,001 - $50,000",Apple Inc.,07-31-2020,07-20-2020
+Ron,Wyden,OSK,Purchase,Spouse,"$15,001 - $50,000",Oshkosh Corporation,07-31-2020,07-20-2020
+Ron,Wyden,MSFT,Purchase,Spouse,"$100,001 - $250,000",Microsoft Corporation,07-31-2020,07-23-2020
+Ron,Wyden,GOOG,Purchase,Spouse,"$15,001 - $50,000",Alphabet Inc.,07-31-2020,07-27-2020
+Ron,Wyden,FB,Purchase,Spouse,"$15,001 - $50,000","Facebook, Inc.",07-31-2020,07-27-2020
+Ron,Wyden,IRBT,Purchase,Spouse,"$15,001 - $50,000",iRobot Corporation,07-31-2020,07-27-2020
+Ron,Wyden,NVDA,Purchase,Spouse,"$15,001 - $50,000",NVIDIA Corporation,07-31-2020,07-27-2020
+Ron,Wyden,DHI,Purchase,Spouse,"$15,001 - $50,000","D.R. Horton, Inc.",07-31-2020,07-28-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$15,001 - $50,000","Amazon.com, Inc.",07-02-2020,06-30-2020
+Ron,Wyden,AAPL,Purchase,Spouse,"$15,001 - $50,000",Apple Inc.,07-02-2020,06-26-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$15,001 - $50,000","Amazon.com, Inc.",07-02-2020,06-26-2020
+Ron,Wyden,MSFT,Purchase,Spouse,"$15,001 - $50,000",Microsoft Corporation,07-02-2020,06-26-2020
+Ron,Wyden,NFLX,Purchase,Spouse,"$15,001 - $50,000","Netflix, Inc.",07-02-2020,06-26-2020
+Ron,Wyden,NVDA,Purchase,Spouse,"$15,001 - $50,000",NVIDIA Corporation,07-02-2020,06-26-2020
+Ron,Wyden,AAPL,Purchase,Spouse,"$15,001 - $50,000",Apple Inc.,07-02-2020,06-24-2020
+Ron,Wyden,COST,Purchase,Spouse,"$15,001 - $50,000",Costco Wholesale Corporation,07-02-2020,06-24-2020
+Ron,Wyden,COUP,Purchase,Spouse,"$50,001 - $100,000",Coupa Software Incorporated,07-02-2020,06-24-2020
+Ron,Wyden,DIS,Purchase,Spouse,"$50,001 - $100,000",The Walt Disney Company,07-02-2020,06-24-2020
+Ron,Wyden,FB,Purchase,Spouse,"$15,001 - $50,000","Facebook, Inc.",07-02-2020,06-24-2020
+Ron,Wyden,GOOG,Purchase,Spouse,"$15,001 - $50,000",Alphabet Inc.,07-02-2020,06-24-2020
+Ron,Wyden,IRBT,Purchase,Spouse,"$15,001 - $50,000",iRobot Corporation,07-02-2020,06-24-2020
+Ron,Wyden,MSFT,Purchase,Spouse,"$15,001 - $50,000",Microsoft Corporation,07-02-2020,06-24-2020
+Ron,Wyden,NVDA,Purchase,Spouse,"$15,001 - $50,000",NVIDIA Corporation,07-02-2020,06-24-2020
+Ron,Wyden,PYPL,Purchase,Spouse,"$15,001 - $50,000","PayPal Holdings, Inc.",07-02-2020,06-24-2020
+Ron,Wyden,AAPL,Purchase,Spouse,"$50,001 - $100,000",Apple Inc.,07-02-2020,06-23-2020
+Ron,Wyden,AMAT,Purchase,Spouse,"$15,001 - $50,000","Applied Materials, Inc.",07-02-2020,06-23-2020
+Ron,Wyden,AVGO,Purchase,Spouse,"$15,001 - $50,000",Broadcom Inc.,07-02-2020,06-23-2020
+Ron,Wyden,COUP,Purchase,Spouse,"$15,001 - $50,000",Coupa Software Incorporated,07-02-2020,06-23-2020
+Ron,Wyden,MMM,Purchase,Spouse,"$50,001 - $100,000",3M Company,07-02-2020,06-23-2020
+Ron,Wyden,MSFT,Purchase,Spouse,"$15,001 - $50,000",Microsoft Corporation,07-02-2020,06-23-2020
+Ron,Wyden,AMAT,Purchase,Spouse,"$15,001 - $50,000","Applied Materials, Inc.",07-02-2020,06-17-2020
+Ron,Wyden,COUP,Purchase,Spouse,"$15,001 - $50,000",Coupa Software Incorporated,07-02-2020,06-17-2020
+Ron,Wyden,INTC,Purchase,Spouse,"$15,001 - $50,000",Intel Corporation,07-02-2020,06-17-2020
+Ron,Wyden,KLAC,Purchase,Spouse,"$15,001 - $50,000",KLA Corporation,07-02-2020,06-17-2020
+Ron,Wyden,MSFT,Purchase,Spouse,"$15,001 - $50,000",Microsoft Corporation,07-02-2020,06-17-2020
+Ron,Wyden,NFLX,Purchase,Spouse,"$50,001 - $100,000","Netflix, Inc.",07-02-2020,06-03-2020
+Ron,Wyden,VMC,Purchase,Spouse,"$50,001 - $100,000",Vulcan Materials Company,07-02-2020,06-04-2020
+Ron,Wyden,STZ,Purchase,Spouse,"$50,001 - $100,000","Constellation Brands, Inc.",07-02-2020,06-04-2020
+Ron,Wyden,RDS-B,Sale (Full),Spouse,"$1,001 - $15,000",Royal Dutch Shell plc,07-02-2020,06-04-2020
+Ron,Wyden,PYPL,Purchase,Spouse,"$15,001 - $50,000","PayPal Holdings, Inc.",07-02-2020,06-04-2020
+Ron,Wyden,MAR,Purchase,Spouse,"$15,001 - $50,000","Marriott International, Inc.",07-02-2020,06-04-2020
+Ron,Wyden,KLAC,Purchase,Spouse,"$15,001 - $50,000",KLA Corporation,07-02-2020,06-04-2020
+Ron,Wyden,FB,Purchase,Spouse,"$15,001 - $50,000","Facebook, Inc.",07-02-2020,06-04-2020
+Ron,Wyden,AVGO,Purchase,Spouse,"$15,001 - $50,000",Broadcom Inc.,07-02-2020,06-04-2020
+Ron,Wyden,VMC,Purchase,Spouse,"$15,001 - $50,000",Vulcan Materials Company,07-02-2020,06-05-2020
+Ron,Wyden,TRIP,Purchase,Spouse,"$50,001 - $100,000","TripAdvisor, Inc.",07-02-2020,06-05-2020
+Ron,Wyden,MAR,Purchase,Spouse,"$50,001 - $100,000","Marriott International, Inc.",07-02-2020,06-05-2020
+Ron,Wyden,GOOG,Purchase,Spouse,"$15,001 - $50,000",Alphabet Inc.,07-02-2020,06-05-2020
+Ron,Wyden,FB,Purchase,Spouse,"$15,001 - $50,000","Facebook, Inc.",07-02-2020,06-05-2020
+Ron,Wyden,CAT,Purchase,Spouse,"$15,001 - $50,000",Caterpillar Inc.,07-02-2020,06-05-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$15,001 - $50,000","Amazon.com, Inc.",07-02-2020,06-05-2020
+Ron,Wyden,AMAT,Purchase,Spouse,"$15,001 - $50,000","Applied Materials, Inc.",07-02-2020,06-05-2020
+Ron,Wyden,NVDA,Purchase,Spouse,"$50,001 - $100,000",NVIDIA Corporation,07-02-2020,06-12-2020
+Ron,Wyden,DIS,Purchase,Spouse,"$50,001 - $100,000",The Walt Disney Company,07-02-2020,06-12-2020
+Ron,Wyden,DIS,Purchase,Child,"$1,001 - $15,000",The Walt Disney Company,07-02-2020,06-12-2020
+Ron,Wyden,DIS,Purchase,Child,"$1,001 - $15,000",The Walt Disney Company,07-02-2020,06-12-2020
+Ron,Wyden,DIS,Purchase,Child,"$1,001 - $15,000",The Walt Disney Company,07-02-2020,06-12-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$15,001 - $50,000","Amazon.com, Inc.",07-02-2020,06-02-2020
+Ron,Wyden,BERY,Purchase,Spouse,"$50,001 - $100,000","Berry Global Group, Inc.",07-02-2020,06-02-2020
+Ron,Wyden,TRIP,Purchase,Spouse,"$15,001 - $50,000","TripAdvisor, Inc.",06-01-2020,05-27-2020
+Ron,Wyden,MAR,Purchase,Spouse,"$50,001 - $100,000","Marriott International, Inc.",06-01-2020,05-27-2020
+Ron,Wyden,VAC,Purchase,Spouse,"$15,001 - $50,000",Marriott Vacations Worldwide Corporation,06-01-2020,05-27-2020
+Ron,Wyden,NVDA,Purchase,Spouse,"$100,001 - $250,000",NVIDIA Corporation,06-01-2020,05-26-2020
+Ron,Wyden,VAC,Purchase,Spouse,"$15,001 - $50,000",Marriott Vacations Worldwide Corporation,06-01-2020,05-26-2020
+Ron,Wyden,GOOG,Purchase,Spouse,"$15,001 - $50,000",Alphabet Inc.,06-01-2020,05-21-2020
+Ron,Wyden,PYPL,Purchase,Spouse,"$50,001 - $100,000","PayPal Holdings, Inc.",06-01-2020,05-20-2020
+Ron,Wyden,FB,Purchase,Spouse,"$50,001 - $100,000","Facebook, Inc.",06-01-2020,05-20-2020
+Ron,Wyden,UBER,Sale (Full),Spouse,"$15,001 - $50,000","Uber Technologies, Inc.",06-01-2020,05-11-2020
+Ron,Wyden,UBER,Purchase,Spouse,"$15,001 - $50,000","Uber Technologies, Inc.",06-01-2020,05-08-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$15,001 - $50,000","Amazon.com, Inc.",06-01-2020,05-01-2020
+Ron,Wyden,QSR,Purchase,Spouse,"$15,001 - $50,000",Restaurant Brands International Inc.,06-01-2020,05-05-2020
+Ron,Wyden,MCD,Purchase,Spouse,"$15,001 - $50,000",McDonald's Corporation,06-01-2020,05-05-2020
+Ron,Wyden,DPZ,Purchase,Spouse,"$50,001 - $100,000","Domino's Pizza, Inc.",06-01-2020,05-05-2020
+Ron,Wyden,BYND,Purchase,Spouse,"$15,001 - $50,000","Beyond Meat, Inc.",06-01-2020,05-05-2020
+Ron,Wyden,STZ,Purchase,Spouse,"$15,001 - $50,000","Constellation Brands, Inc.",06-01-2020,05-07-2020
+Ron,Wyden,MTCH,Purchase,Spouse,"$50,001 - $100,000","Match Group, Inc.",06-01-2020,05-07-2020
+Ron,Wyden,BLL,Purchase,Spouse,"$50,001 - $100,000",Ball Corporation,06-01-2020,05-07-2020
+Ron,Wyden,BRY,Purchase,Spouse,"$15,001 - $50,000",Berry Corporation,06-01-2020,05-07-2020
+Ron,Wyden,GE,Sale (Full),Spouse,"$1,001 - $15,000",General Electric Company,06-01-2020,05-07-2020
+Ron,Wyden,AMAT,Purchase,Spouse,"$15,001 - $50,000","Applied Materials, Inc.",05-05-2020,04-17-2020
+Ron,Wyden,DIS,Purchase,Spouse,"$50,001 - $100,000",The Walt Disney Company,05-05-2020,04-17-2020
+Ron,Wyden,DNKN,Purchase,Spouse,"$15,001 - $50,000","Dunkin' Brands Group, Inc.",05-05-2020,04-17-2020
+Ron,Wyden,F,Purchase,Spouse,"$15,001 - $50,000",Ford Motor Company,05-05-2020,04-17-2020
+Ron,Wyden,GOOG,Purchase,Spouse,"$50,001 - $100,000",Alphabet Inc.,05-05-2020,04-17-2020
+Ron,Wyden,KLAC,Purchase,Spouse,"$15,001 - $50,000",KLA Corporation,05-05-2020,04-17-2020
+Ron,Wyden,SBUX,Purchase,Spouse,"$15,001 - $50,000",Starbucks Corporation,05-05-2020,04-17-2020
+Ron,Wyden,T,Purchase,Spouse,"$15,001 - $50,000",AT&amp;T Inc.,05-05-2020,04-17-2020
+Ron,Wyden,VMC,Purchase,Spouse,"$50,001 - $100,000",Vulcan Materials Company,05-05-2020,04-17-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$15,001 - $50,000","Amazon.com, Inc.",05-05-2020,05-01-2020
+Ron,Wyden,TEL,Sale (Full),Spouse,"$1,001 - $15,000",TE Connectivity Ltd.,05-05-2020,04-24-2020
+Ron,Wyden,JCI,Sale (Full),Spouse,"$1,001 - $15,000",Johnson Controls International plc,05-05-2020,04-24-2020
+Ron,Wyden,C,Sale (Full),Spouse,"$1,001 - $15,000",Citigroup Inc.,05-05-2020,04-24-2020
+Ron,Wyden,CRWD,Sale (Full),Spouse,"$50,001 - $100,000","CrowdStrike Holdings, Inc.",05-05-2020,04-24-2020
+Ron,Wyden,PYPL,Purchase,Spouse,"$50,001 - $100,000","PayPal Holdings, Inc.",05-05-2020,04-23-2020
+Ron,Wyden,CRWD,Purchase,Spouse,"$15,001 - $50,000","CrowdStrike Holdings, Inc.",05-05-2020,04-21-2020
+Ron,Wyden,NVDA,Purchase,Spouse,"$50,001 - $100,000",NVIDIA Corporation,05-05-2020,04-21-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$50,001 - $100,000","Amazon.com, Inc.",05-05-2020,04-17-2020
+Ron,Wyden,UPS,Purchase,Spouse,"$15,001 - $50,000","United Parcel Service, Inc.",05-05-2020,04-08-2020
+Ron,Wyden,GOOG,Purchase,Spouse,"$1,001 - $15,000",Alphabet Inc.,05-05-2020,04-08-2020
+Ron,Wyden,QSR,Purchase,Spouse,"$1,001 - $15,000",Restaurant Brands International Inc.,05-05-2020,04-06-2020
+Ron,Wyden,GRUB,Purchase,Spouse,"$1,001 - $15,000",Grubhub Inc.,05-05-2020,04-06-2020
+Ron,Wyden,GOOG,Purchase,Spouse,"$1,001 - $15,000",Alphabet Inc.,05-05-2020,04-06-2020
+Ron,Wyden,IRBT,Purchase,Spouse,"$1,001 - $15,000",iRobot Corporation,05-05-2020,04-06-2020
+Ron,Wyden,DNKN,Purchase,Spouse,"$1,001 - $15,000","Dunkin' Brands Group, Inc.",05-05-2020,04-06-2020
+Ron,Wyden,SBUX,Purchase,Spouse,"$1,001 - $15,000",Starbucks Corporation,05-05-2020,04-06-2020
+Ron,Wyden,RDS-B,Purchase,Spouse,"$1,001 - $15,000",Royal Dutch Shell plc,05-05-2020,04-06-2020
+Ron,Wyden,T,Purchase,Spouse,"$1,001 - $15,000",AT&amp;T Inc.,05-05-2020,04-06-2020
+Ron,Wyden,CSCO,Purchase,Spouse,"$15,001 - $50,000","Cisco Systems, Inc.",05-05-2020,04-06-2020
+Ron,Wyden,AMAT,Purchase,Spouse,"$15,001 - $50,000","Applied Materials, Inc.",05-05-2020,04-06-2020
+Ron,Wyden,KLAC,Purchase,Spouse,"$15,001 - $50,000",KLA Corporation,05-05-2020,04-06-2020
+Ron,Wyden,AVGO,Purchase,Spouse,"$15,001 - $50,000",Broadcom Inc.,05-05-2020,04-06-2020
+Ron,Wyden,XOM,Purchase,Spouse,"$15,001 - $50,000",Exxon Mobil Corporation,05-05-2020,04-06-2020
+Ron,Wyden,V,Purchase,Spouse,"$15,001 - $50,000",Visa Inc.,05-05-2020,04-06-2020
+Ron,Wyden,CAT,Purchase,Spouse,"$15,001 - $50,000",Caterpillar Inc.,05-05-2020,04-06-2020
+Ron,Wyden,AMZN,Purchase,Spouse,"$50,001 - $100,000","Amazon.com, Inc.",05-05-2020,04-06-2020
+Ron,Wyden,DIS,Purchase,Spouse,"$50,001 - $100,000",The Walt Disney Company,05-05-2020,04-06-2020
+Ron,Wyden,N/A,N/A,N/A,Unknown,This filing was disclosed via scanned PDF. Use link in ptr_link column to view the PDF.,01-03-2019,01-03-2019
+Ron,Wyden,N/A,N/A,N/A,Unknown,This filing was disclosed via scanned PDF. Use link in ptr_link column to view the PDF.,07-06-2017,07-06-2017
+Ron,Wyden,N/A,N/A,N/A,Unknown,This filing was disclosed via scanned PDF. Use link in ptr_link column to view the PDF.,07-02-2014,07-02-2014
+Ron,Wyden,N/A,N/A,N/A,Unknown,This filing was disclosed via scanned PDF. Use link in ptr_link column to view the PDF.,06-05-2013,06-05-2013
