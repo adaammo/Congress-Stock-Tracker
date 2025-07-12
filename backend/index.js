@@ -39,7 +39,7 @@ app.get(`/api/:name`, async (req,res) => {
    console.log(name);
    const name_db = result.rows.find(e => (`${e.first_name.toLowerCase()} ${e.last_name.toLowerCase()}`) === name);
    if(!name_db){
-    return res.status(404).json({err: "name is not populated"});
+    return res.status(404).json({err: "name currently has no data available."});
    }
    if(name_db.gov_pos === "Representative"){
     const data = rep_data.filter(e => `${e.first_name.toLowerCase()} ${e.last_name.toLowerCase()}` === name);
