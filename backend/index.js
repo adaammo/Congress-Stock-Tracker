@@ -36,6 +36,7 @@ app.get("/", async (req,res) => {
 app.get(`/api/:name`, async (req,res) => {
    const name = req.params.name.toLowerCase();
    const result = await db.query('SELECT * FROM members');
+   console.log(name);
    const name_db = result.rows.find(e => (`${e.first_name.toLowerCase()} ${e.last_name.toLowerCase()}`) === name);
    if(!name_db){
     return res.status(404).json({err: "name is not populated"});
@@ -49,7 +50,6 @@ app.get(`/api/:name`, async (req,res) => {
     res.json(data);
    }
     });
-
 app.listen(server, () => {
     console.log('server started.');
 }); 
