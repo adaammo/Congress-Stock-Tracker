@@ -50,6 +50,19 @@ app.get(`/api/:name`, async (req,res) => {
     res.json(data);
    }
     });
+app.get('/api/trade-value/:name', async (req,res) => {
+    const name = req.params.name.toLowerCase();
+    const result = await db.query('SELECT * FROM members');
+    const name_db = result.rows.find(e => (`${e.first_name.toLowerCase()} ${e.last_name.toLowerCase()}`) === name);
+    const values = await db.query(`SELECT members.first_name, members.last_name, stocks.stock_ticker, trades.stock_id,
+         trades.trade_type, trades.trade_value, trades.transaction_date, trades.notified_date FROM trades 
+         JOIN members ON members.id = trades.member_id AND members.first_name = $1
+         JOIn stocks ON stocks.stock_id = trades.stock_id
+         ORDER BY trades.stock_id ASC,
+         trades.transaction_date ASC,
+         trades.notified_date ASC;`,[name_db.first_name]);
+         res.json(values.rows);
+});
 app.listen(server, () => {
     console.log('server started.');
 }); 

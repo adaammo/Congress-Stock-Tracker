@@ -24,7 +24,7 @@ export default function Info({d}){
       info: "U.S. Representative for New Jersey's 5th Congressional District since 2017."
     },
     {
-      name: "Michael McCaul",
+      name: "Michael T. McCaul",
       birthDate: "1962-01-14",
       firstElected: 2005,
       yearsInOffice: 20,
@@ -45,7 +45,7 @@ export default function Info({d}){
       info: "U.S. Representative for North Carolina's 6th Congressional District since 2021."
     },
     {
-      name: "Debbie Wasserman Schultz",
+      name: "Debbie Schultz",
       birthDate: "1966-09-27",
       firstElected: 2005,
       yearsInOffice: 20,

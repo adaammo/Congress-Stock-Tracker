@@ -1,49 +1,36 @@
 import React, { useEffect, useState} from 'react';
 import ReactDOM from "react-dom";
 import './members.css';
-import ScottFranklin from '../public/congress people/scott_franklin.jpg';
-import JoshGottheimer from '../public/congress people/Josh_Gottheimer.jpg';
-import NancyPelosi from '../public/congress people/Nancy_Pelosi.jpg';
-import DebbieSchultz from '../public/congress people/Debbie_Wasserman.jpg';
-import TommyTuberville from '../public/congress people/Tommy_tuberville.jpg';
-import RonWyden from '../public/congress people/Ron_Wyden.jpeg';
-import RoKhanna from '../public/congress people/Ro_Khanna.jpg';
-import MichaelMcCaul from '../public/congress people/Michael_McCaul.jpg';
-import KathyManning from '../public/congress people/Kathy_Manning.jpeg';
-import states from "./states.jsx"
-import MarjorieTaylorGreene from '../public/congress people/Marjorie_Greene.jpeg';
-import {socialLinks} from "./socials.jsx";
-import X from "../public/X.png";
-import facebook from "../public/facebook.png";
-import instagram from "../public/instagram.png"
-import website from "../public/web.png";
-import Info from "./member_txt.jsx"
-export default function Port({n, data}){
-    const imageMap = {
-        ScottFranklin,
-        RoKhanna,
-        JoshGottheimer,
-        MichaelMcCaul,
-        NancyPelosi,
-        KathyManning,
-        DebbieSchultz,
-        TommyTuberville,
-        MarjorieTaylorGreene,
-        RonWyden,
-      };
-let cleaned = n.replaceAll(" ", "");
-const imgSrc = imageMap[cleaned];
-const person = data.filter(e => `${e.first_name} ${e.last_name}` === n)[0];
-const rep = person.first_name + " " + person.last_name;
-const pos = person.gov_pos;
+import MembersIntro from "./mem_card_info"
+ import StockPng from '../public/stock.png';
+export default function Port({n, data, trades, value}){
+    const person = data.filter(e => `${e.first_name} ${e.last_name}` === n)[0];
 const party = person.party;
-const dist = person.district;
-const state_code = person.state;
-console.log(n);
-function PolitcalParty(p){
-    return p[0].party === "R" ? "r" : "d";
-}
-console.log(socialLinks[n])
+
+    const numbers = value.map(e => {
+        if(e.trade_value.includes('-')){
+            const [min, max] = e.trade_value.split('-').map(s => parseInt(s.replace(/[^0-9]/g, '')));
+            return {
+                min: min,
+                max: max,
+            }
+        }
+    });
+    console.log(numbers);
+    const totalLowest = numbers.reduce((acc, curr) => {
+        if (!Number.isNaN(curr.min)) {
+          return acc + curr.min;
+        }
+        return acc;
+      }, 0);
+      
+      const totalHighest = numbers.reduce((acc, curr) => {
+        if (!Number.isNaN(curr.max)) {
+          return acc + curr.max;
+        }
+        return acc;
+      }, 0);
+      const total_cost_basis = (totalLowest+totalHighest)/2;
     useEffect (() => {
        window.scrollTo(0,0);
     },[]);
@@ -53,32 +40,23 @@ console.log(socialLinks[n])
             <div className = "title-flex">Temp</div>
         </div>
     <div className = "page-container">
-    <div className= "card info_mem">
-        <img className={`${person.party === "R" ? "hue-rotate-130" : ""} bg`} src="../public/blue.png" />
-        <img className={`${person.party === "R" ? "hue-rotate-130" : ""} bg`} src="../public/blue.png" />
-        <img className={`${person.party === "R" ? "hue-rotate-130" : ""} bg`} src="../public/blue.png" />
-    <img className={`${PolitcalParty(data.filter(e => `${e.first_name} ${e.last_name}` === n)) === 'r' ? "border-red-600" : "border-blue-500"} member_pfp`}
-    src={imgSrc} alt = {cleaned}/>
-         <p className = "name_info">{pos === "Representative" ? "Rep." : "Sen."} {rep ? rep : "No Name Found."}</p>
-         <p className = {`desc ${party === "R" ? "border-b-2 border-red-500" : "border-b-2 border-blue-500"}`}>{party === "R" ? "Republican" : "Democrat"} |
-            {` ${states[state_code]}`}</p>
-            <Info d = {n}/>
-            <div className = "socials">
-            <a href = {socialLinks[n].website} target = "_blank" rel="noopener noreferrer">
-            <img className = "web png"src={website}/>
-                </a>
-                <a href = {socialLinks[n].instagram} target = "_blank" rel="noopener noreferrer">
-                <img className = "insta png"src  = {instagram}/>
-                </a>
-                <a href = {socialLinks[n].twitter} target = "_blank" rel="noopener noreferrer">
-                <img className = "twitter png"src  = {X}/>
-                </a>
-                <a href = {socialLinks[n].facebook} target = "_blank" rel="noopener noreferrer">
-                <img className = "facebook png"src  = {facebook}/>
-                </a>
+        <MembersIntro n = {n} data = {data}/>
+        <div className = "card data">
+            <div className = "bubbles total_trades">
+            <p className = {`num ${party === "R" ? "text-red-200" : "text-blue-200"}`}>{trades.length}</p>
+            <p className = {`txt ${party === "R" ? "text-red-200" : "text-blue-200"}`}>Tracked Trades</p>
             </div>
+
+            <div className = "bubbles net_profit">
+            <p className = 'num trade_num'>${total_cost_basis.toLocaleString()}</p>
+            <p className = {`txt ${party === "R" ? "text-red-200" : "text-blue-200"}`}>Volume</p>
+            </div>
+
+            <div className = "bubbles ovr_cost_basis">
+            <p>1</p>
+            </div>
+
         </div>
-        <div className = "card data"></div>
         <div className = "card chart">3</div>
         <div className = "card stock">4</div>
     </div>

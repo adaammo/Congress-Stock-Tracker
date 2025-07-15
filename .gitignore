@@ -8,10 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+trades json
 dist
 dist-ssr
 *.local
-
+org_queries
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -25,4 +26,5 @@ dist-ssr
 queries.js
 rep.js
 senate.js
+org_queries
 .env

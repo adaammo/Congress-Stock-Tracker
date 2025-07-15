@@ -19,8 +19,8 @@ export const socialLinks = {
       facebook:  "https://www.facebook.com/RepJoshGottheimer",
       website:   "https://gottheimer.house.gov/"
     },
-    "Michae lMcCaul": {
-      instagram: "https://www.instagram.com/repmccaul",
+    "Michael T. McCaul": {
+      instagram: "https://www.instagram.com/congressman_mccaul/?hl=en",
       twitter:   "https://x.com/McCaulPress",
       facebook:  "https://www.facebook.com/MichaelMcCaulTX10",
       website:   "https://mccaul.house.gov/"
@@ -45,7 +45,7 @@ export const socialLinks = {
     },
     "Tommy Tuberville": {
       instagram: "https://www.instagram.com/sentuberville",
-      twitter:   "https://x.com/SenatorTTuberville",
+      twitter:   "https://x.com/SenTuberville",
       facebook:  "https://www.facebook.com/SenatorTommyTuberville",
       website:   "https://tuberville.senate.gov/"
     },

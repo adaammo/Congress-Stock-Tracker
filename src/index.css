@@ -74,9 +74,11 @@ transition: 3s all ease-out
 }
 .cards{
     display: flex;
+    flex-direction: column;
+    align-items: center;
     margin-top: 30px;
     height: 250px;
-    width: 685px;
+    width: 350px;
     border-width: 1px;
     border-radius:20px;
     margin-left: 30px;
@@ -84,42 +86,39 @@ transition: 3s all ease-out
     background-color: rgb(30, 30, 30);
     cursor: pointer;
     text-align-last: center;
+    justify-content: center;
+    align-self: center;
 }
 .pfp{
     position: relative;
-    height:200px;
-    border-radius: 110px;
-    left: 25px;
-    top: 25px;
+    justify-self: center;
+    height:150px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
 }
 .members{
     position: relative;
     display: grid;
-    grid-template-columns: repeat(2, 300px);
-    column-gap: 450px;
+    grid-template-columns: repeat(3, 140px);
+    column-gap: 350px;
+    left: 31px;
     align-self: center;
 }
 
 .info{
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 color: white;
-
-left: 50px;
 }
 .pos{
     font-weight: bolder;
     text-wrap: nowrap;
-    font-size: 28px;
+    font-size: 20px;
 }
 .name{
     font-weight: bolder;
-    
-    text-wrap: nowrap;
-    font-size: 30px;
-}
-.Sub-info{
-    font-weight: bolder;
-    font-size:20px;
+    text-wrap: wrap;
+    font-size: auto;
 }
 .cards:hover{
     opacity: 75%;

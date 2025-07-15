@@ -21,6 +21,11 @@
 .data{
     width: 1030px;
     grid-area: 1 / 3 / 2 / 8;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 110px;
 }
 .chart{
     width: 1030px;
@@ -76,7 +81,8 @@ padding-bottom: 10px;
     display: flex;
     position: absolute;
     bottom: 3px;
-    left: 23px;
+    left: 11px;
+    gap: 10px;
 }
 .png{
     height:50px;
@@ -96,4 +102,25 @@ padding-bottom: 10px;
     opacity: 20%;
     border-bottom: 10px;
     border-color: white;
+}
+.bubbles{
+    height: 120px;
+    width: 250px;
+    border:solid;
+    border-radius: 12px;
+    border-color:rgba(33, 36, 41, 0.564) ; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.total_trades{
+    justify-items: center;
+}
+.num{
+    margin-top: -10px;
+    font-weight: bold;
+    margin-bottom: -5px;
+    font-size: 50px;
+}
+.txt{
+    font-size: 30px;
 }

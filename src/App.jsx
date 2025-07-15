@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import ReactDOM from "react-dom";
 import { createRoot } from 'react-dom/client';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, useParams } from "react-router-dom";
 import './index.css';
 import FirstPage from './loading_page.jsx';
 import Member from './member_content.jsx'
@@ -23,6 +23,17 @@ export default function App(){
         };
         
         fetchData();
+    }, []);
+    useEffect (() => {
+        const tradesData = async () => {
+            try{
+            const responce = await axios.get('localhost.com/api/');
+            }
+            catch (err){
+                console.error(err);
+                setLoading(false);
+            }
+        }
     }, []);
     if (loading) return <div>Loading...</div>;
     return (

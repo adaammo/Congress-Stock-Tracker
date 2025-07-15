@@ -1,7 +1,6 @@
 import Scott_Franklin from '../public/congress people/scott_franklin.jpg';
 import Josh_Gottheimer from '../public/congress people/Josh_Gottheimer.jpg';
 import Nancy_Pelosi from '../public/congress people/Nancy_Pelosi.jpg';
-import Debbie_Schultz from '../public/congress people/Debbie_Wasserman.jpg';
 import Tommy_Tuberville from '../public/congress people/Tommy_tuberville.jpg';
 import Ron_Wyden from '../public/congress people/Ron_Wyden.jpeg';
 import Ro_Khanna from '../public/congress people/Ro_Khanna.jpg';
@@ -21,13 +20,12 @@ export default function Portraits({ data }) {
     { id: 1, name: "Scott Franklin", img: Scott_Franklin },
     { id: 2, name: "Josh Gottheimer", img: Josh_Gottheimer },
     { id: 3, name: "Nancy Pelosi", img: Nancy_Pelosi },
-    { id: 4, name: "Debbie Schultz", img: Debbie_Schultz },
-    { id: 5, name: "Tommy Tuberville", img: Tommy_Tuberville },
-    { id: 6, name: "Ron Wyden", img: Ron_Wyden },
-    { id: 7, name: "Ro Khanna", img: Ro_Khanna },
-    { id: 8, name: "Michael McCaul", img: Michael_McCaul },
-    { id: 9, name: "Kathy Manning", img: Kathy_Manning},
-    { id: 10, name: "Marjorie Taylor Greene", img: Marjorie_Taylor},
+    { id: 4, name: "Tommy Tuberville", img: Tommy_Tuberville },
+    { id: 5, name: "Ron Wyden", img: Ron_Wyden },
+    { id: 6, name: "Ro Khanna", img: Ro_Khanna },
+    { id: 7, name: "Michael T. McCaul", img: Michael_McCaul },
+    { id: 8, name: "Kathy Manning", img: Kathy_Manning},
+    { id: 9, name: "Marjorie Taylor Greene", img: Marjorie_Taylor},
   ];
 return (
     <>
