@@ -11,6 +11,7 @@ export default function MemberPage({data}){
     const [trades, setTrades] = useState([]);
     const [loading, setLoading] = useState();
     const [value, setValue] = useState([]);
+    const[spy, setSpy] = useState([]);
     useEffect (() => {
         const tradesData = async () => {
             try{
@@ -40,12 +41,26 @@ export default function MemberPage({data}){
         }
         tradesData();
     }, []);
+    useEffect (() => {
+        const Spy = async () => {
+            try{
+            const responce = await axios.get(`http://localhost:3000/yahoo/spy`);
+           setSpy(responce.data)
+           setLoading(true);
+            }
+            catch (err){
+                console.error(err);
+                setLoading(false);
+            }
+        }
+        Spy();
+    }, []);
     if(!loading){
         return <div>Loading...</div>
     }
     return(
         <>
- <Port n = {name} data = {data} trades = {trades} value = {value}/>
+ <Port n = {name} data = {data} trades = {trades} value = {value} spy = {spy}/>
  </>
     );
 }

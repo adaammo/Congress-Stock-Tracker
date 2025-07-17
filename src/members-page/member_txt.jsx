@@ -74,7 +74,6 @@ export default function Info({d}){
     }
   ];
   let mem_info = members.find(info => `${info.name}` === d);
-  console.log(mem_info);
   return(
     <>
     <p className = "quick-info">{mem_info.info} Has been at their current government position for the past {mem_info.yearsInOffice} years.</p>

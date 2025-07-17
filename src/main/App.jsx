@@ -2,9 +2,9 @@ import React, {useState, useEffect} from 'react';
 import ReactDOM from "react-dom";
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter as Router, Routes, Route, useParams } from "react-router-dom";
-import './index.css';
-import FirstPage from './loading_page.jsx';
-import Member from './member_content.jsx'
+import '../front-page-render/index.css'
+import FirstPage from '../front-page-render/loading_page.jsx';
+import Member from '../members-page/member_content.jsx'
 import axios from 'axios';
 export default function App(){
     const [congressData, setCongressData] = useState([]);

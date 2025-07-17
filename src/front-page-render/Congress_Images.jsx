@@ -1,12 +1,12 @@
-import Scott_Franklin from '../public/congress people/scott_franklin.jpg';
-import Josh_Gottheimer from '../public/congress people/Josh_Gottheimer.jpg';
-import Nancy_Pelosi from '../public/congress people/Nancy_Pelosi.jpg';
-import Tommy_Tuberville from '../public/congress people/Tommy_tuberville.jpg';
-import Ron_Wyden from '../public/congress people/Ron_Wyden.jpeg';
-import Ro_Khanna from '../public/congress people/Ro_Khanna.jpg';
-import Michael_McCaul from '../public/congress people/Michael_McCaul.jpg';
-import Kathy_Manning from '../public/congress people/Kathy_Manning.jpeg';
-import Marjorie_Taylor from '../public/congress people/Marjorie_Greene.jpeg';
+import Scott_Franklin from '../../public/congress people/scott_franklin.jpg';
+import Josh_Gottheimer from '../../public/congress people/Josh_Gottheimer.jpg';
+import Nancy_Pelosi from '../../public/congress people/Nancy_Pelosi.jpg';
+import Tommy_Tuberville from '../../public/congress people/Tommy_tuberville.jpg';
+import Ron_Wyden from '../../public/congress people/Ron_Wyden.jpeg';
+import Ro_Khanna from '../../public/congress people/Ro_Khanna.jpg';
+import Michael_McCaul from '../../public/congress people/Michael_McCaul.jpg';
+import Kathy_Manning from '../../public/congress people/Kathy_Manning.jpeg';
+import Marjorie_Taylor from '../../public/congress people/Marjorie_Greene.jpeg';
 
 import React from 'react';
 import './index.css';

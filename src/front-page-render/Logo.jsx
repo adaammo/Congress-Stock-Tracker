@@ -1,7 +1,7 @@
 import React, { useEffect, useState} from 'react';
 import ReactDOM from "react-dom";
 import './index.css';
-import suit from "../public/suit.jpg";
+import suit from "../../public/suit.jpg";
 
 export default function Logo(){
     const [isScrolled, setIsScrolled] = useState(false);
