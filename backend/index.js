@@ -66,12 +66,18 @@ app.get('/api/trade-value/:name', async (req,res) => {
 app.get('/yahoo/spy', async (req,res) => {
 const result = await axios.get("https://query2.finance.yahoo.com/v8/finance/chart/SPY?interval=1d&range=5y");
 const time_dates = result.data.chart.result[0].timestamp
-const indicators = result.data.chart.result[0].indicators;
 const open = result.data.chart.result[0].indicators.quote[0].open;
 const close = result.data.chart.result[0].indicators.quote[0].close;
 const high = result.data.chart.result[0].indicators.quote[0].high;
 const low = result.data.chart.result[0].indicators.quote[0].low; 
-res.json(result.data);
+const market_data = time_dates.map((timestamp, i) => ({
+    timestamp,
+    open:  open[i],
+    high:  high[i],
+    low:   low[i],
+    close: close[i],
+  }));
+res.json(market_data);
 });
 app.listen(server, () => {
     console.log('server started.');

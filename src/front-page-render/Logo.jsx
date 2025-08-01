@@ -23,7 +23,7 @@ export default function Logo(){
 <div className={`load-up ${isScrolled ? 'opacity-0' : 'opacity-100 ease-in'} transition-opacity duration-700 ease-out`}>
 <img src={suit} alt = "Logo" className = "logo"/>
         <h1 className = "title-text">Congress's Most Succesful // <br/>A Look Into Government Trading</h1>
-        <p className = "title-text-2"> View trades from 10 of the most prominent <br/>and successful traders in Congress </p>
+        <p className = "title-text-2"> View trades from some of the most prominent <br/>and successful traders in Congress </p>
         <p className ="arrow">&darr;</p>
         </div>
     );
