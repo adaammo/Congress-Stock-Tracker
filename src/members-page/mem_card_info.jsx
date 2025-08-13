@@ -10,7 +10,7 @@ import Info from "./member_txt.jsx"
 import ScottFranklin from '../../public/congress people/scott_franklin.jpg';
 import JoshGottheimer from '../../public/congress people/Josh_Gottheimer.jpg';
 import NancyPelosi from '../../public/congress people/Nancy_pelosi.jpg';
-import TommyTuberville from '../../public/congress people/Tommy_Tuberville.jpg';
+import TommyTuberville from '../../public/congress people/Tommy_tuberville.jpg';
 import RonWyden from '../../public/congress people/Ron_Wyden.jpeg';
 import RoKhanna from '../../public/congress people/Ro_Khanna.jpg';
 import MichaelMcCaul from '../../public/congress people/Michael_McCaul.jpg';
