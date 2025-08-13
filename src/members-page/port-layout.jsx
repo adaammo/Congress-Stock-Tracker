@@ -1,4 +1,4 @@
-import React, { useEffect, useState} from 'react';
+import React, { useEffect } from 'react';
 import ReactDOM from "react-dom";
 import './members.css';
 import MembersIntro from "./mem_card_info.jsx"

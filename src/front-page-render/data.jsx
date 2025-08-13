@@ -1,6 +1,4 @@
-import React, { useEffect, useState} from 'react';
-import ReactDOM from "react-dom";
-import { createRoot } from 'react-dom/client';
+import React from 'react';
 import './index.css';
 export default function PersonCard({name, data}){
     function PolitcalParty(p){

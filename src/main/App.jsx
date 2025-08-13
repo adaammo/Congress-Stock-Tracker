@@ -1,7 +1,7 @@
+/* eslint-disable no-unused-vars */
 import React, {useState, useEffect} from 'react';
 import ReactDOM from "react-dom";
-import { createRoot } from 'react-dom/client';
-import { BrowserRouter as Router, Routes, Route, useParams } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import '../front-page-render/index.css'
 import FirstPage from '../front-page-render/loading_page.jsx';
 import Member from '../members-page/member_content.jsx'

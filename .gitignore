@@ -9,8 +9,7 @@ lerna-debug.log*
 
 node_modules
 trades json
-backend
-index.js
+
 dist
 dist-ssr
 *.local

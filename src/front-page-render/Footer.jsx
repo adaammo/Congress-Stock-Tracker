@@ -1,5 +1,4 @@
-import React, { useEffect, useState} from 'react';
-import ReactDOM from "react-dom";
+import React from 'react';
 import './index.css';
 import git from "../../public/git.svg";
 import linked from "../../public/linkedin.svg"

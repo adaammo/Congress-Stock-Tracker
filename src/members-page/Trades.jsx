@@ -1,7 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { ChevronDown, ChevronUp, Filter, Search, Calendar, DollarSign, TrendingUp, TrendingDown } from 'lucide-react';
 
-export default function CongressionalTradesList({ trades = [], party }) {
+export default function CongressionalTradesList({ trades = []}) {
     const [sortBy, setSortBy] = useState('date');
     const [sortOrder, setSortOrder] = useState('desc');
     const [filterType, setFilterType] = useState('all');

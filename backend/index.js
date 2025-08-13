@@ -2,10 +2,9 @@ import express from "express";
 import axios from "axios";
 import bodyParser from "body-parser";
 import pg from "pg";
-import passport from "passport";
 import env from "dotenv";
 import cors from "cors";
-import bcrypt, { hash } from "bcrypt";
+
 
 import senate_data from "./senate.js";
 import rep_data from "./rep.js";
@@ -13,9 +12,12 @@ const app = express();
 app.use(bodyParser.urlencoded({extended: true}));
 env.config();
 const db = new pg.Client({
+    // eslint-disable-next-line no-undef
     user: process.env.DATABASE_USER,
     host: "localhost",
+    // eslint-disable-next-line no-undef
     database: process.env.DATABASE_NAME,
+    // eslint-disable-next-line no-undef
     password: process.env.DATABASE_PASS,
     port:"5433",
 });
