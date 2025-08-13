@@ -34,7 +34,7 @@
 .stock{
     width: 1428px;
     grid-area: 6 / 1 / 5 / 9;
-    height: 645px;
+    height: 628px;
 }
 .card{
     background-color: rgba(57, 62, 70, 0.564) ;
