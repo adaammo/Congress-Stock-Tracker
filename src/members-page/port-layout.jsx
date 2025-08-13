@@ -4,6 +4,7 @@ import './members.css';
 import MembersIntro from "./mem_card_info.jsx"
  import Financials from './mem_financial_data.jsx';
  import LineChart from './LineChart.jsx';
+ import Trades from './Trades.jsx'
 export default function Port({n, data, trades, value, spy}){
     const person = data.filter(e => `${e.first_name} ${e.last_name}` === n)[0];
 const party = person.party;
@@ -19,7 +20,7 @@ const party = person.party;
         <MembersIntro n = {n} data = {data}/>
         <Financials n = {n} data = {data} trades = {trades} value = {value}/>
         <div className = "card chart"><LineChart spy = {spy} party = {party} trades = {trades}/></div>
-        <div className = "card stock">4</div>
+        <div className = "card stock"><Trades trades = {trades} party = {party}/></div>
     </div>
     </div>
     );

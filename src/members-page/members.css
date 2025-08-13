@@ -8,10 +8,10 @@
 }
 .page-container{
     display: grid;
-    height: 120vh;
+    height: 160vh;
     gap:20px;
-    grid-template-columns: repeat(7, 180px);
-    grid-template-rows: repeat(6, 150px); 
+    grid-template-columns: repeat(10, 180px);
+    grid-template-rows: repeat(10, 150px); 
     margin-left: 10px;
 }
 .info_mem{
@@ -33,8 +33,8 @@
 }
 .stock{
     width: 1428px;
-    grid-area: 6 / 1 / 5 / 8;
-    height: 308px;
+    grid-area: 6 / 1 / 5 / 9;
+    height: 645px;
 }
 .card{
     background-color: rgba(57, 62, 70, 0.564) ;
