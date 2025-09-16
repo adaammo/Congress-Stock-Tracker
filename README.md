@@ -1,10 +1,10 @@
 # 🏛️ Congress Stock Tracker
 
 Track and visualize stock trades made by 9 prominent traders who have a seat in Congress.  
-** SO FAR ONLY UP TO 2022 MAX, AND AS FAR BACK AS 2019; FOR AS MUCH DATA I COULD FIND.
+## SO FAR ONLY UP TO 2022 MAX, AND AS FAR BACK AS 2019; FOR AS MUCH DATA I COULD FIND.
 ## Built with **Node.js, Express, React, PostgreSQL, and Vercel**.  
 
- **Live Demo:** [Congress Stock Tracker](https://congress-stock-tracker-aj8aww0c4-adaammos-projects.vercel.app)  
+ **Live Demo:** [Congress Stock Tracker](https://congress-stock-tracker-git-main-adaammos-projects.vercel.app/)  
 
 ---
 
