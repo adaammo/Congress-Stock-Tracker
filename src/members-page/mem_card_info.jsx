@@ -49,9 +49,9 @@ function PolitcalParty(p){
 }
     return (
 <div className= "card info_mem">
-        <img className={`${person.party === "R" ? "hue-rotate-130" : ""} bg`} src="../../public/blue.png" />
-        <img className={`${person.party === "R" ? "hue-rotate-130" : ""} bg`} src="../../public/blue.png" />
-        <img className={`${person.party === "R" ? "hue-rotate-130" : ""} bg`} src="../../public/blue.png" />
+        <img className={`${person.party === "R" ? "hue-rotate-130" : ""} bg`} src="/blue.png" />
+        <img className={`${person.party === "R" ? "hue-rotate-130" : ""} bg`} src="/blue.png" />
+        <img className={`${person.party === "R" ? "hue-rotate-130" : ""} bg`} src="/blue.png" />
     <img className={`${PolitcalParty(data.filter(e => `${e.first_name} ${e.last_name}` === n)) === 'r' ? "border-red-600" : "border-blue-500"} member_pfp`}
     src={imgSrc} alt = {cleaned}/>
          <p className = "name_info">{pos === "Representative" ? "Rep." : "Sen."} {rep ? rep : "No Name Found."}</p>

@@ -12,10 +12,7 @@ const party = person.party;
        window.scrollTo(0,0);
     },[]);
     return(
-        <div className = "body">
-        <div>
-            <div className = "title-flex">Temp</div>
-        </div>
+        <div className = "body py-8">
     <div className = "page-container">
         <MembersIntro n = {n} data = {data}/>
         <Financials n = {n} data = {data} trades = {trades} value = {value}/>

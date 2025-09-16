@@ -134,10 +134,7 @@ export default function CongressionalTradesList({ trades = []}) {
         <div className="w-full text-white p-6 rounded-lg" style={{ backgroundColor: 'rgba(57, 62, 70, 0.564)' }}>
             <div className="mb-6">
                 <h2 className="text-2xl font-bold mb-4">Congressional Trading Activity</h2>
-                
-                {/* Controls */}
                 <div className="flex flex-wrap gap-4 mb-4">
-                    {/* Search */}
                     <div className="relative flex-1 min-w-64">
                         <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 w-4 h-4 text-gray-400" />
                         <input
@@ -149,8 +146,6 @@ export default function CongressionalTradesList({ trades = []}) {
                             style={{ backgroundColor: 'rgba(57, 62, 70, 0.8)' }}
                         />
                     </div>
-
-                    {/* Filter */}
                     <select
                         value={filterType}
                         onChange={(e) => setFilterType(e.target.value)}
@@ -168,7 +163,6 @@ export default function CongressionalTradesList({ trades = []}) {
                 </div>
             </div>
 
-            {/* Trades List */}
             <div className="space-y-3 max-h-96 overflow-y-auto">
                 {filteredAndSortedTrades.length === 0 ? (
                     <div className="text-center py-8 text-gray-400">
